@@ -1,0 +1,94 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="73">
+            <item index="0" class="java.lang.String" itemvalue="sklearn" />
+            <item index="1" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="2" class="java.lang.String" itemvalue="protobuf" />
+            <item index="3" class="java.lang.String" itemvalue="debtcollector" />
+            <item index="4" class="java.lang.String" itemvalue="txt2tags" />
+            <item index="5" class="java.lang.String" itemvalue="dash-renderer" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="7" class="java.lang.String" itemvalue="jsondb" />
+            <item index="8" class="java.lang.String" itemvalue="lab" />
+            <item index="9" class="java.lang.String" itemvalue="graphviz" />
+            <item index="10" class="java.lang.String" itemvalue="app" />
+            <item index="11" class="java.lang.String" itemvalue="idna-ssl" />
+            <item index="12" class="java.lang.String" itemvalue="watermark" />
+            <item index="13" class="java.lang.String" itemvalue="Flask-Script" />
+            <item index="14" class="java.lang.String" itemvalue="user-profile" />
+            <item index="15" class="java.lang.String" itemvalue="htmltext" />
+            <item index="16" class="java.lang.String" itemvalue="appnope" />
+            <item index="17" class="java.lang.String" itemvalue="iexfinance" />
+            <item index="18" class="java.lang.String" itemvalue="Flask-Ext" />
+            <item index="19" class="java.lang.String" itemvalue="props" />
+            <item index="20" class="java.lang.String" itemvalue="oslo.context" />
+            <item index="21" class="java.lang.String" itemvalue="oslo.log" />
+            <item index="22" class="java.lang.String" itemvalue="install" />
+            <item index="23" class="java.lang.String" itemvalue="contextvars" />
+            <item index="24" class="java.lang.String" itemvalue="meta" />
+            <item index="25" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="26" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="27" class="java.lang.String" itemvalue="dash-core-components" />
+            <item index="28" class="java.lang.String" itemvalue="dash" />
+            <item index="29" class="java.lang.String" itemvalue="msgpack" />
+            <item index="30" class="java.lang.String" itemvalue="oslo.serialization" />
+            <item index="31" class="java.lang.String" itemvalue="doqu" />
+            <item index="32" class="java.lang.String" itemvalue="lib50" />
+            <item index="33" class="java.lang.String" itemvalue="netifaces" />
+            <item index="34" class="java.lang.String" itemvalue="jellyfish" />
+            <item index="35" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="36" class="java.lang.String" itemvalue="sigtools" />
+            <item index="37" class="java.lang.String" itemvalue="mapper" />
+            <item index="38" class="java.lang.String" itemvalue="numpy" />
+            <item index="39" class="java.lang.String" itemvalue="antiorm" />
+            <item index="40" class="java.lang.String" itemvalue="simpervisor" />
+            <item index="41" class="java.lang.String" itemvalue="general" />
+            <item index="42" class="java.lang.String" itemvalue="oslo.i18n" />
+            <item index="43" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="44" class="java.lang.String" itemvalue="od" />
+            <item index="45" class="java.lang.String" itemvalue="sh" />
+            <item index="46" class="java.lang.String" itemvalue="flask-heroku" />
+            <item index="47" class="java.lang.String" itemvalue="netaddr" />
+            <item index="48" class="java.lang.String" itemvalue="msgpack-python" />
+            <item index="49" class="java.lang.String" itemvalue="Flask-Session" />
+            <item index="50" class="java.lang.String" itemvalue="botocore" />
+            <item index="51" class="java.lang.String" itemvalue="oslo.utils" />
+            <item index="52" class="java.lang.String" itemvalue="stevedore" />
+            <item index="53" class="java.lang.String" itemvalue="BareNecessities" />
+            <item index="54" class="java.lang.String" itemvalue="dash-html-components" />
+            <item index="55" class="java.lang.String" itemvalue="cachelib" />
+            <item index="56" class="java.lang.String" itemvalue="plotly" />
+            <item index="57" class="java.lang.String" itemvalue="pipenv" />
+            <item index="58" class="java.lang.String" itemvalue="clize" />
+            <item index="59" class="java.lang.String" itemvalue="oslo.config" />
+            <item index="60" class="java.lang.String" itemvalue="geos" />
+            <item index="61" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="62" class="java.lang.String" itemvalue="Mail" />
+            <item index="63" class="java.lang.String" itemvalue="dash-table" />
+            <item index="64" class="java.lang.String" itemvalue="pd" />
+            <item index="65" class="java.lang.String" itemvalue="Flask-Migrate" />
+            <item index="66" class="java.lang.String" itemvalue="lesscpy" />
+            <item index="67" class="java.lang.String" itemvalue="db" />
+            <item index="68" class="java.lang.String" itemvalue="requests-ftp" />
+            <item index="69" class="java.lang.String" itemvalue="rply" />
+            <item index="70" class="java.lang.String" itemvalue="base" />
+            <item index="71" class="java.lang.String" itemvalue="submit50" />
+            <item index="72" class="java.lang.String" itemvalue="Brotli" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
