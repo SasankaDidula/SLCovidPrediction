@@ -81,8 +81,8 @@ def createDataset():
                          fieldnames[8]: row[8], fieldnames[9]: row[10]})
 
 
-if ~os.path.exists('SLCovid.csv'):
-    createDataset()
+#if ~os.path.exists('SLCovid.csv'):
+#    createDataset()
 df = pd.read_csv('SLCovid.csv')
 df1 = df.copy()
 df1.drop(['Number', 'Age', 'Gender'], axis=1, inplace=True)
@@ -136,10 +136,10 @@ def geometry():
     # create new columns from lists
 
 
-if ~os.path.exists('geometry.csv'):
-    df4 = pd.DataFrame(geometry())
-    print('geomatry csv created!!')
-    df4.to_csv('geometry.csv')
+#if ~os.path.exists('geometry.csv'):
+ #   df4 = pd.DataFrame(geometry())
+ #   print('geomatry csv created!!')
+  #  df4.to_csv('geometry.csv')
 
 df5 = pd.read_csv('geometry.csv')
 df5["scaled"] = df5["Cases"] ** 0.5
