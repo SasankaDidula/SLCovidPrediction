@@ -8,6 +8,7 @@ import dash_html_components as html
 import dash_core_components as dcc
 from dash import dash
 import plotly.express as px
+from geopy.geocoders import Nominatim
 from opencage.geocoder import OpenCageGeocode
 
 from google.auth.transport.requests import Request
@@ -98,14 +99,63 @@ fig0.update_layout(
     template='plotly_dark'
 )
 
-df3 = df.groupby('Ditected_City')['Number'].nunique()
-
+df3 = df.groupby(['Detected_Prefecture'])['Number'].count().to_frame().rename(
+    columns={'Detected_Prefecture': 'Cases'}).reset_index()
 fig1 = px.bar(df3
-              , x=df3.index
+              , x='Detected_Prefecture'
               , y='Number'
               , title="<b>Cases By City</b>")
 # Add figure title
 fig1.update_layout(
+    template='plotly_dark'
+)
+df3.head()
+data = []  # create empty lists
+geocoder = OpenCageGeocode(geokey)
+
+
+def geometry():
+    for index, row in df3.iterrows():  # iterate over rows in dataframe
+        lat = 0
+        long = 0
+        location = ''
+        try:
+            City = str(row[0])
+            query = str(City) + ', Sri Lanka'
+            geolocator = Nominatim(user_agent="slcovidprediction")
+            location = geolocator.geocode(query)
+
+            if len(location.raw) > 0:
+                lat = location.latitude
+                long = location.longitude
+
+                data.append({'City': row[0], 'Cases': row[1], 'lat': lat, 'long': long})
+        except AttributeError:
+            continue
+    return data
+    # create new columns from lists
+
+
+if ~os.path.exists('geometry.csv'):
+    df4 = pd.DataFrame(geometry())
+    print('geomatry csv created!!')
+    df4.to_csv('geometry.csv')
+
+df5 = pd.read_csv('geometry.csv')
+df5["scaled"] = df5["Cases"] ** 0.5
+fig5 = px.scatter_mapbox(
+    df5,
+    lat="lat",
+    lon="long",
+    color="Cases",
+    size="scaled",
+    size_max=50,
+    hover_name="City",
+    hover_data=["Cases", "City"],
+    color_continuous_scale=px.colors.sequential.Cividis_r
+)
+fig5.update_layout(
+    mapbox_style="carto-darkmatter",
     template='plotly_dark'
 )
 
@@ -154,7 +204,13 @@ app.layout = html.Div(children=[
                      'margin-top': -24})
 
     ], className="row"),
-    html.Br()
+    html.Br(),
+    html.Br(),
+    html.Div([
+        html.H4("Map"),
+        dcc.Graph(figure=fig5)
+    ]),
+    html.Br(),
 ], style={'padding-left': '10%'
     , 'padding-right': '10%'})
 
