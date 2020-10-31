@@ -3,6 +3,7 @@ matplotlib
 numpy
 pandas
 plotly
+Numpy
 gunicorn
 geopy
 geoviews
