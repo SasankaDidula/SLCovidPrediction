@@ -3,3 +3,6 @@ matplotlib
 numpy
 pandas
 plotly
+gunicorn
+geopy
+geoviews
