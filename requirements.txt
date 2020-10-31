@@ -5,5 +5,5 @@ pandas
 plotly
 gunicorn
 geopy
-cartopy==0.11.2
+cartopy
 geoviews
