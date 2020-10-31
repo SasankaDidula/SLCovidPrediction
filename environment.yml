@@ -1,4 +1,4 @@
-name: openmc-dash-interface
+name: slcovidprediction
 channels:
     - conda-forge
 dependencies:
