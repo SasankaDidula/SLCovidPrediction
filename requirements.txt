@@ -6,5 +6,5 @@ pandas
 plotly
 gunicorn
 geopy
--c conda-forge cartopy
+cartopy
 geoviews
