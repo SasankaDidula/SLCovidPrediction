@@ -94,7 +94,7 @@ fig0 = px.bar(df2
               , x=df2.index
               , y='Number'
               , title="<b>Daily Cases</b>")
-# Add figure title
+
 fig0.update_layout(
     template='plotly_dark'
 )
@@ -133,7 +133,6 @@ def geometry():
         except AttributeError:
             continue
     return data
-    # create new columns from lists
 
 
 #if ~os.path.exists('geometry.csv'):
