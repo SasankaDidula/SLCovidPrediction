@@ -14,6 +14,23 @@ from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
+from sklearn.metrics import mean_squared_error
+from sklearn.svm import SVR
+from datetime import datetime as dt
+from sklearn.linear_model import LinearRegression
+from datetime import datetime as dt
+#get_ipython().run_line_magic('matplotlib', 'inline')
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+get_ipython().run_line_magic('matplotlib', 'inline')
+
+
 geokey = '92244e2e0ea946d3ac6a1024ef5a74dc'
 
 bgcolors = {
@@ -160,3 +177,175 @@ app.layout = html.Div(children=[
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+
+##preprocessing
+
+def preprocessing(url):
+
+    Df_dataset = pd.read_csv(url, error_bad_lines=False)
+
+    col_num = 0
+    TotalObjects = Df_dataset.shape[0]
+    print("Column\t\t\t\t\t Null Values%")
+    for x in Df_dataset:
+        nullCount = Df_dataset[x].isnull().sum();
+        nullPercent = nullCount * 100 / (TotalObjects)
+        if nullCount > 0 and nullPercent > 30:
+            col_num = col_num + 1
+            Df_dataset.drop(x, axis=1, inplace=True)
+            print(str(x) + "\t\t\t\t\t " + str(nullPercent))
+    print("A total of " + str(col_num) + " deleted !")
+
+    Df_dataset = Df_dataset.replace(np.nan, 0)
+    new1 = Df_dataset[["Date_Added", "Detected_Prefecture"]]
+    a = new1.groupby("Date_Added").size().values
+    df1 = new1.drop_duplicates(subset="Date_Added").assign(Count=a)
+
+    dfnew = df1.pivot_table('Count', ['Date_Added'], 'Detected_Prefecture')
+    dfnew.fillna(0, inplace=True)
+
+    return Df_dataset, new1, df1, dfnew
+
+
+
+def convert_date(Df_dataset, countryIndex, date):
+    float_date = pd.to_datetime(date).toordinal() #date that we select
+    val = Df_dataset[countryIndex]
+    date = []
+    Total_cases = []
+
+    for x in val.index.values:
+        y = pd.to_datetime(x).toordinal()
+        date.append(y)
+
+    for x in val.values:
+        if x < 0:
+            Total_cases.append(0) #check whether the date is valid or not
+        else:
+            Total_cases.append(x)
+
+    return date, Total_cases, [float_date]
+
+def predict_cases_country(countryIndex, date):
+    url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data' \
+          '/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv '
+    df1_new = preprocessing(url)
+    data = convert_date(df1_new, countryIndex, date)
+    predicted_cases = predict_cases(data[0], data[1], data[2])
+    return predicted_cases
+
+def predict_cases_svm(dates, cases, predictDate):
+
+    dates = np.reshape(dates, (len(dates), 1))  # convert to 1xn dimension
+    predictDate = np.reshape(predictDate, (len(predictDate), 1))
+
+    svr_lin = Pipeline([('scaler', StandardScaler()), ('svr', SVR(kernel='linear', C=1e3, cache_size=7000))])
+    svr_poly = Pipeline([('scaler', StandardScaler()), ('svr', SVR(kernel='poly', C=1e3, cache_size=7000, degree=2))])
+    svr_rbf = Pipeline([('scaler', StandardScaler()), ('svr', SVR(kernel='rbf', C=1e3, cache_size=7000, gamma=0.1))])
+
+    # Fit regression model
+    svr_lin.fit(dates, cases)
+    svr_poly.fit(dates, cases)
+    svr_rbf.fit(dates, cases)
+
+    plt.scatter(dates, cases, c='k', label='Data')
+    plt.plot(dates, svr_lin.predict(dates), c='g', label='Linear model')
+    plt.plot(dates, svr_rbf.predict(dates), c='r', label='RBF model')
+    plt.plot(dates, svr_poly.predict(dates), c='b', label='Polynomial model')
+
+    plt.xlabel('Date')
+    plt.ylabel('cases')
+    plt.title('Support Vector Regression')
+    plt.legend()
+    plt.show()
+
+    MeanErrorLin = 'Mean Squared Error Linear model: ' + str(mean_squared_error(cases, svr_lin.predict(dates)))
+    MeanErrorRbf = 'Mean Squared Error RBF model: ' + str(mean_squared_error(cases, svr_rbf.predict(dates)))
+    MeanErrorPoly = 'Mean Squared Error Polynomial model: ' + str(mean_squared_error(cases, svr_poly.predict(dates)))
+
+    return svr_rbf.predict(predictDate)[0], svr_lin.predict(predictDate)[0], svr_poly.predict(predictDate)[
+        0], MeanErrorLin, MeanErrorRbf, MeanErrorPoly
+
+
+def predict_cases_city_svm(index, date):
+    float_date = pd.to_datetime(date).toordinal()
+    val = dfnew[index]
+    date = []
+
+    for x in val.index.values:
+        y = pd.to_datetime(x).toordinal()
+        date.append(y)
+
+    Total_cases = val.values
+    predicted_cases = predict_cases_svm(date, Total_cases, [float_date])
+    return predicted_cases
+
+
+def predict_cases_lin(dates, cases, predictDate):
+    dates = np.reshape(dates, (len(dates), 1))  # convert to 1xn dimension
+    predictDate = np.reshape(predictDate, (len(predictDate), 1))
+
+    regression_model = LinearRegression()
+    regression_model.fit(dates, cases)
+
+    plt.scatter(dates, cases, c='k', label='Data')
+    plt.plot(dates, regression_model.predict(dates), c='g', label='Linear model')
+
+    plt.xlabel('Date')
+    plt.ylabel('Cases')
+    plt.title('Linear Regression')
+    plt.legend()
+    plt.show()
+
+    MeanErrorLin = 'Mean Error Linear regression model: ' + str(
+        mean_squared_error(cases, regression_model.predict(dates)))
+
+    return regression_model.predict(predictDate)[0], MeanErrorLin
+
+
+def predict_cases_city(index, date):
+    float_date = pd.to_datetime(date).toordinal()
+    val = dfnew[index]
+    date = []
+
+    for x in val.index.values:
+        y = pd.to_datetime(x).toordinal()
+        date.append(y)
+
+    Total_cases = val.values
+    predicted_cases = predict_cases_lin(date, Total_cases, [float_date])
+    return predicted_cases
+
+
+def predict_cases_poly(dates, cases, predictDate):
+    dates = np.reshape(dates, (len(dates), 1))  # convert to 1xn dimension
+    predictDate = np.reshape(predictDate, (len(predictDate), 1))
+
+    # Fitting Polynomial Regression to the dataset
+    polynominal_regg = PolynomialFeatures(degree=3)
+    x_Polynom = polynominal_regg.fit_transform(dates)
+
+    leniar_regg = LinearRegression()
+    leniar_regg.fit(x_Polynom, cases)
+    # Visualizing the Polymonial Regression results
+    plt.scatter(dates, cases, c='k', label='Data')
+    plt.plot(dates, leniar_regg.predict(x_Polynom), c='b', label='RBF model')
+    plt.xlabel("Dates")
+    plt.ylabel("Cases")
+    plt.title('Polynomial Regression')
+    return leniar_regg.predict(polynominal_regg.fit_transform(predictDate))
+
+
+def predict_cases_city_poly(index, date):
+    float_date = pd.to_datetime(date).toordinal()
+    val = dfnew[index]
+    date = []
+
+    for x in val.index.values:
+        y = pd.to_datetime(x).toordinal()
+        date.append(y)
+
+    Total_cases = val.values
+    predicted_cases = predict_cases_poly(date, Total_cases, [float_date])
+    return predicted_cases
