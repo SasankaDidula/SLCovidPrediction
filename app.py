@@ -33,16 +33,16 @@ external_scripts = [
     }
 ]
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-# app stuff
+
 app = dash.Dash(__name__,
                 external_scripts=external_scripts,
                 external_stylesheets=external_stylesheets)
 server = app.server
 
-# Datasets.createDatasetForSL()
-# Datasets.SLdatasetbyCity()
-# Datasets.SLdatasetbyDate()
-# Datasets.geometry()
+Datasets.createDatasetForSL()
+Datasets.SLdatasetbyCity()
+Datasets.SLdatasetbyDate()
+Datasets.geometry()
 
 # Daily Cases graph
 dfsumbyday = pd.read_csv('sumbyday.csv')
