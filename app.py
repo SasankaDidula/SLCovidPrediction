@@ -17,8 +17,7 @@ import dash_core_components as dcc
 from dash import dash
 import plotly.express as px
 import plotly.graph_objects as go
-from dash.dependencies import Input, Output, State
-import matplotlib.pyplot as plt
+from dash.dependencies import Input, Output
 
 bgcolors = {
     'background': '#13263a',
@@ -314,6 +313,70 @@ def predict_recovered_country(countryIndex, date):
     return predicted_recovered
 
 
+def predict_cases_sldata():
+    Df_dataset = Datasets.SLDataPreprocess()
+    new1 = Df_dataset[["Date_Added", "Detected_Prefecture"]]
+    a = new1.groupby("Date_Added").size().values
+    df1 = new1.drop_duplicates(subset="Date_Added").assign(Count=a)
+    dfnew = df1.pivot_table('Count', ['Date_Added'], 'Detected_Prefecture')
+    dfnew.fillna(0, inplace=True)
+    return dfnew
+
+
+def predict_cases(dates, cases, predictDate):
+    dates = dates[-30:]
+    cases = cases[-30:]
+    dates1 = np.reshape(dates, (len(dates), 1))  # convert to 1xn dimension
+    cases1 = np.reshape(cases, (len(cases), 1))
+    predictDate = np.reshape(predictDate, (len(predictDate), 1))
+
+    polynominal_regg = PolynomialFeatures(degree=3)
+    x_Polynom = polynominal_regg.fit_transform(dates1)
+
+    leniar_regg = LinearRegression()
+    leniar_regg.fit(x_Polynom, cases1)
+
+    y1 = leniar_regg.predict(x_Polynom)
+    y2 = leniar_regg.predict(polynominal_regg.fit_transform(predictDate))
+
+    fig = go.Figure(layout=go.Layout(
+        title=go.layout.Title(text="cases predict for city"),
+        template='plotly_dark'
+    ))
+    y1 = list(chain(*y1))
+    y2 = list(chain(*y2))
+
+    fig.add_trace(go.Scatter(x=dates,
+                             y=cases
+                             , mode='lines',
+                             name='Actual'))
+    fig.add_trace(go.Scatter(x=dates
+                             , y=y1
+                             , mode='lines',
+                             name='predict'))
+    fig.add_trace(go.Scatter(x=['03/11/20']
+                             , y=y2
+                             , mode='lines+markers',
+                             name='predict for the selected date'))
+
+    return fig, y2
+
+
+def predict_cases_sl(index, date):
+    float_date = pd.to_datetime(date).toordinal()
+    dfnew = predict_cases_sldata()
+    val = dfnew[index]
+    date = []
+
+    for x in val.index.values:
+        y = pd.to_datetime(x).toordinal()
+        date.append(y)
+
+    Total_cases = val.values
+    predicted_cases = predict_cases(date, Total_cases, [float_date])
+    return predicted_cases
+
+
 predictType = ["New Cases", "New Recoverd", "New Deaths"]
 countries = ['Afghanistan',
              'Albania',
@@ -581,30 +644,11 @@ countries = ['Afghanistan',
              'Yemen',
              'Zambia',
              'Zimbabwe']
+city = ['Gampaha', 'Colombo', 'Kalutara', 'Kurunegala', 'Jaffna', 'Ratnapura', 'Kegalle', 'Puttalam', 'Polonnaruwa',
+        'Galle', 'Kandy', 'Anuradhapura', 'Nuwara Eliya', 'Vavuniya', 'Badulla,Hambantota', 'Matale', 'Batticaloa',
+        'Mannar', 'rincomalee', 'Moneragala', 'Matara', 'Ampara', 'Godagama']
 
 app.layout = html.Div([
-    html.Div([
-
-        html.Div([
-            dcc.Dropdown(
-                id='typepred',
-                options=[{'label': i, 'value': i} for i in predictType],
-                value='New Recoverd'
-            ),
-        ],
-            style={'width': '48%', 'display': 'inline-block'}),
-
-        html.Div([
-            dcc.Dropdown(
-                id='country',
-                options=[{'label': i, 'value': i} for i in countries],
-                value='Sri Lanka'
-            ),
-        ], style={'width': '48%', 'float': 'right', 'display': 'inline-block'})
-
-    ]),
-    html.Br(),
-    dcc.Graph(id='SlPrection'),
     html.Br(),
     html.Div([
         html.Div([
@@ -643,7 +687,47 @@ app.layout = html.Div([
         dcc.Graph(figure=figfbprophet)
     ]),
     html.Br(),
-    html.Br()
+    html.Br(),
+    html.Br(),
+    html.Br(),
+    html.Div([
+        html.H4("Local prediction"),
+        html.Div([
+
+            dcc.Dropdown(
+                id='city',
+                options=[{'label': i, 'value': i} for i in city],
+                value='Colombo'
+            ),
+        ],
+            style={'width': '48%', 'display': 'inline-block'}),
+
+    ]),
+    dcc.Graph(id='SlPrectionCity'),
+    html.Br(),
+    html.Br(),
+    html.Div([
+        html.H4("Global prediction"),
+        html.Div([
+            dcc.Dropdown(
+                id='typepred',
+                options=[{'label': i, 'value': i} for i in predictType],
+                value='New Recoverd'
+            ),
+        ],
+            style={'width': '48%', 'display': 'inline-block'}),
+
+        html.Div([
+            dcc.Dropdown(
+                id='country',
+                options=[{'label': i, 'value': i} for i in countries],
+                value='Sri Lanka'
+            ),
+        ], style={'width': '48%', 'float': 'right', 'display': 'inline-block'}),
+        html.Br(),
+        dcc.Graph(id='SlPrection'),
+
+    ]),
 ], style={'padding-left': '10%'
     , 'padding-right': '10%'})
 
@@ -656,7 +740,7 @@ if __name__ == '__main__':
     [Input('typepred', 'value'),
      Input('country', 'value')]
 )
-def update_graph(typepred, country):
+def update_graph_global(typepred, country):
     index = countries.index(country)
     if typepred == 'New Cases':
         output = predict_cases_country(index, '2020-11-03')
@@ -665,4 +749,13 @@ def update_graph(typepred, country):
     else:
         output = predict_recovered_country(index, '2020-11-03')
     fig = output[0]
+    return fig
+
+
+@app.callback(
+    Output('SlPrectionCity', 'figure'),
+    [Input('city', 'value')]
+)
+def update_table_local(cityname):
+    fig = predict_cases_sl(cityname, '2020-11-03')[0]
     return fig
