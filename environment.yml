@@ -17,3 +17,4 @@ dependencies:
   - gunicorn
   - geoviews
   - geopy
+  - fbprophet
