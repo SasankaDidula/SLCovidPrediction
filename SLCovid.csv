@@ -1,24 +1,388 @@
 Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditected_City,Detected_Prefecture,Status,Notes
+1,2020-01-27,2020-01-27,44,F,"China, Hubei",Katunayake,Gampaha,,
+2,2020-03-10,2020-03-10,52,M,Mattegoda,Mattegoda,Colombo,,
 3,2020-03-12,2020-03-12,44,M,Borella,Colombo 08,Colombo,Discharged,From Germany
+4,2020-03-13,2020-03-13,41,M,,Colombo 08,Colombo,,
+5,2020-03-13,2020-03-13,37,M,,Mahara,Gampaha,,
+6,2020-03-13,2020-03-13,43,M,,Udubaddawa,Kurunegala,,
+7,2020-03-14,2020-03-14,44,M,,Dunkannawa,Puttalam,,
+8,2020-03-14,2020-03-14,43,M,,Colombo 08,Colombo,,
+9,2020-03-14,2020-03-14,42,M,,Mt. Lavinia,Colombo,,
+10,2020-03-14,2020-03-14,17,F,,Colombo 08,Colombo,,
+11,2020-03-14,2020-03-14,,F,,Galle,Galle,,
 12,2020-03-15,2020-03-15,45,M,,Akuregoda,Colombo,Hospitalized,Local from Germany
+13,2020-03-15,2020-03-15,,M,,Rajagiriya,Colombo,,
 14,2020-03-15,2020-03-15,,M,,Bauddhaloka Mawatha,Colombo,Hospitalized,Indian national
+15,2020-03-15,2020-03-15,,M,,Colombo 08,Colombo,,
+16,2020-03-15,2020-03-15,,M,,Kandakadu QC,Polonnaruwa,,
+17,2020-03-15,2020-03-15,,M,,Kandakadu QC,Polonnaruwa,,
+18,2020-03-15,2020-03-15,,M,,Kandakadu QC,Polonnaruwa,,
+19,2020-03-16,2020-03-16,13,F,,Kandakadu QC,Polonnaruwa,,
 20,2020-03-16,2020-03-16,73,M,,Batticaloa QC,Batticaloa,Hospitalized,Father of the person who came from Italy
+21,2020-03-16,2020-03-16,55,M,,Kandakadu QC,Polonnaruwa,,
+22,2020-03-16,2020-03-16,37,,,Kandakadu QC,Polonnaruwa,,
+23,2020-03-16,2020-03-16,,M,,Kandakadu QC,Polonnaruwa,,
+24,2020-03-16,2020-03-16,,,,Kandakadu QC,Polonnaruwa,,
+25,2020-03-16,2020-03-16,,,,Kandakadu QC,Polonnaruwa,,
+26,2020-03-16,2020-03-16,,,,Galkanda QC,Kandy,,
+27,2020-03-16,2020-03-16,,,,Kandakadu QC,Polonnaruwa,,
+28,2020-03-16,2020-03-16,,,,Kandakadu QC,Polonnaruwa,,
+29,2020-03-17,2020-03-17,,,,Kandakadu QC,Polonnaruwa,,
 30,2020-03-17,2020-03-17,60,M,,Marawila,Puttalam,Deceased,"Reportedly, he had previously undergone a kidney transplant as well. Infected from a German tourist."
+31,2020-03-17,2020-03-17,25,M,,Ratnapura,Ratnapura,,
+32,2020-03-17,2020-03-17,,,,Batticaloa QC,Batticaloa,,
+33,2020-03-17,2020-03-17,,,,Kandakadu QC,Polonnaruwa,,
+34,2020-03-17,2020-03-17,,F,,Vauniya QC,Vavuniya,,
+35,2020-03-17,2020-03-17,,,,Udugampola,Gampaha,,
+36,2020-03-17,2020-03-17,61,M,,Kelaniya,Gampaha,,
+37,2020-03-17,2020-03-17,,,,Wattala,Gampaha,,
+38,2020-03-17,2020-03-17,,,,Nelundeniya,Kegalle,,
+39,2020-03-17,2020-03-17,1,,,Kalutara South,Kalutara,,
+40,2020-03-17,2020-03-17,,F,,Colombo 08,Colombo,,
+41,2020-03-17,2020-03-17,,,,Kandakadu QC,Polonnaruwa,,
+42,2020-03-17,2020-03-17,,,,Batticaloa,Batticaloa,,
+43,2020-03-17,2020-03-17,,,,Waikkala,Puttalam,,
+44,2020-03-18,2020-03-18,,,,Waikkala,Puttalam,,
+45,2020-03-18,2020-03-18,,,,Morawaka,Galle,,
+46,2020-03-18,2020-03-18,,,,Kandakadu QC,Polonnaruwa,,
+47,2020-03-18,2020-03-18,,,,Bandaragama,Kalutara,,
+48,2020-03-18,2020-03-18,,,,Beruwala,Kalutara,,
+49,2020-03-18,2020-03-18,,,,Malabe,Colombo,,
+50,2020-03-18,2020-03-18,,,,Dehiwala-Mount Lavinia,Colombo,,
+51,2020-03-18,2020-03-18,,,,Rathmalana,Colombo,,
+52,2020-03-18,2020-03-18,,,,Wattala,Gampaha,,
 53,2020-03-19,2020-03-19,,,,Ja-Ela,Gampaha,Hospitalized,From Itally
 54,2020-03-19,2020-03-19,,F,,Rathmalana,Colombo,Discharged,From Itally
 55,2020-03-19,2020-03-19,,F,,Ratnapura,Ratnapura,Hospitalized,Gem business person's wife
 56,2020-03-19,2020-03-19,,F,,Ratnapura,Ratnapura,Hospitalized,Gem business person's daughter
+57,2020-03-19,2020-03-19,,,,Waikkala,Puttalam,,
+58,2020-03-19,2020-03-19,,,,Ja-Ela,Gampaha,,
+59,2020-03-19,2020-03-19,,,,Ja-Ela,Gampaha,,
+60,2020-03-20,2020-03-20,,,,Bandarawela,Badulla,,
+61,2020-03-20,2020-03-20,,,,Kandakadu QC,Polonnaruwa,,
+62,2020-03-20,2020-03-20,,,,Kandakadu QC,Polonnaruwa,,
+63,2020-03-20,2020-03-20,,,,Waikkala,Puttalam,,
+64,2020-03-20,2020-03-20,,,,Ja-Ela,Gampaha,,
+65,2020-03-20,2020-03-20,,,,Ja-Ela,Gampaha,,
+66,2020-03-20,2020-03-20,,,,Colombo 08,Colombo,,
+67,2020-03-20,2020-03-20,,,,Kandakadu QC,Polonnaruwa,,
+68,2020-03-20,2020-03-20,,,,Kandakadu QC,Polonnaruwa,,
+69,2020-03-20,2020-03-20,,,,Kandakadu QC,Polonnaruwa,,
+70,2020-03-20,2020-03-20,,,,Niwasipura,Gampaha,,
+71,2020-03-20,2020-03-20,,,,Panadura,Kalutara,,
+72,2020-03-20,2020-03-20,,,,Colombo 08,Colombo,,
+73,2020-03-21,2020-03-21,,,,Wellawaya,Badulla,,
+74,2020-03-21,2020-03-21,,,,Kandakadu QC,Polonnaruwa,,
+75,2020-03-21,2020-03-21,,,,kandakadu QC,Polonnaruwa,,
+76,2020-03-21,2020-03-21,,,,kandakadu QC,Polonnaruwa,,
+77,2020-03-21,2020-03-21,,,,Batticaloa QC,Batticaloa,,
+78,2020-03-21,2020-03-21,,,,Vauniya QC,Vavuniya,,
+79,2020-03-21,2020-03-21,,,,Uduvil,Jaffna,,
+80,2020-03-21,2020-03-21,,,,Sedawatta,Colombo,,
+81,2020-03-21,2020-03-21,,,,kandakadu QC,Polonnaruwa,,
+82,2020-03-21,2020-03-21,,,,Nugegoda,Colombo,,
+83,2020-03-23,2020-03-23,,,,Mulleriyawa New,Colombo,,
+84,2020-03-23,2020-03-23,,,,Maggona,Kalutara,,
+85,2020-03-23,2020-03-23,,,,Maggona,Kalutara,,
+86,2020-03-23,2020-03-23,,,,Bandaragama,Kalutara,,
+87,2020-03-23,2020-03-23,,,,Kaluthara,Kalutara,,
+88,2020-03-23,2020-03-23,,,,Maggona,Kalutara,,
+89,2020-03-23,2020-03-23,,,,Maggona,Kalutara,,
+90,2020-03-23,2020-03-23,,,,Maggona,Kalutara,,
+91,2020-03-23,2020-03-23,,,,Panadura,Kalutara,,
+92,2020-03-23,2020-03-23,,,,Maggona,Kalutara,,
+93,2020-03-23,2020-03-23,,,,Boralesgamuwa,Colombo,,
+94,2020-03-23,2020-03-23,,,,Naimana,Matara,,
+95,2020-03-23,2020-03-23,,,,Nugegoda,Colombo,,
+96,2020-03-23,2020-03-23,,,,Wennapuwa,Puttalam,,
+97,2020-03-23,2020-03-23,,,,Wennapuwa,Puttalam,,
 98,2020-03-24,2020-03-24,,,,Kolonnawa,Colombo,Hospitalized,From Italy
 99,2020-03-24,2020-03-24,,,,Wennappuwa,Puttalam,Hospitalized,From Italy
 100,2020-03-24,2020-03-24,,,,kandakadu QC,Polonnaruwa,Hospitalized,From Italy
 101,2020-03-24,2020-03-24,,,,Kaluthara,Kalutara,Hospitalized,From USA
+102,2020-03-24,2020-03-24,,,,Wennapuwa,Puttalam,,
+103,2020-03-26,2020-03-26,,,,Nugegoda,Colombo,,
+104,2020-03-26,2020-03-26,,,,Bandaragama,Kalutara,,
+105,2020-03-26,2020-03-26,,,,Mulleriyawa New,Colombo,,
+106,2020-03-26,2020-03-26,,,,Bambalapitiya,Colombo,,
+107,2020-03-28,2020-03-28,,,,Nugegoda,Colombo,,
+108,2020-03-28,2020-03-28,,,,Akurana,Kandy,,
+109,2020-03-28,2020-03-28,,,,Puttalam,Puttalam,,
+110,2020-03-28,2020-03-28,,,,Nattandiya,Puttalam,,
 111,2020-03-28,2020-03-28,,,,Bandaragama,Kalutara,Hospitalized,Sri Lankan from Chennai
 112,2020-03-28,2020-03-28,,,,Bandaragama,Kalutara,Hospitalized,Sri Lankan from Chennai
+113,2020-03-28,2020-03-28,,,,Bambalapitiya,Colombo,,
+114,2020-03-29,2020-03-29,,,,Moratuwa,Colombo,,
+115,2020-03-29,2020-03-29,,,,Maharagama,Colombo,,
+116,2020-03-29,2020-03-29,,,,Nattandiya,Puttalam,,
+117,2020-03-29,2020-03-29,,,,Pelanda,Kalutara,,
+118,2020-03-30,2020-03-30,,,,Nattandiya,Puttalam,,
 119,2020-03-30,2020-03-30,64,M,,Nattandiya,Puttalam,Deceased,The patient had been suffering from a long term lung disease and also suffered a heart attack
+120,2020-03-30,2020-03-30,,,,Nattandiya,Puttalam,,
+121,2020-03-30,2020-03-30,,,,Kochchikade,Gampaha,,
+122,2020-03-30,2020-03-30,,,,Dehiwala,Colombo,,
+123,2020-03-31,2020-03-31,,,,,Unspecified,,
+124,2020-03-31,2020-03-31,,,,Akurana,Kandy,,
+125,2020-03-31,2020-03-31,,,,Akurana,Kandy,,
+126,2020-03-31,2020-03-31,,,,,Unspecified,,
+127,2020-03-31,2020-03-31,,,,,Unspecified,,
+128,2020-03-31,2020-03-31,,,,,Unspecified,,
+129,2020-03-31,2020-03-31,,,,,Unspecified,,
+130,2020-03-31,2020-03-31,,,,Bandaraganma,Colombo,,
+131,2020-03-31,2020-03-31,,,,Bandaraganma,Colombo,,
+132,2020-03-31,2020-03-31,,,,Dehiwala,Colombo,,
+133,2020-03-31,2020-03-31,,,,,Unspecified,,
+134,2020-03-31,2020-03-31,,,,,Unspecified,,
+135,2020-03-31,2020-03-31,,,,,Unspecified,,
+136,2020-03-31,2020-03-31,,,,,Unspecified,,
+137,2020-03-31,2020-03-31,,,,,Unspecified,,
+138,2020-03-31,2020-03-31,,,,,Unspecified,,
+139,2020-03-31,2020-03-31,,,,,Unspecified,,
+140,2020-03-31,2020-03-31,,,,Puttlam,Puttalam,,
+141,2020-03-31,2020-03-31,,,,,Unspecified,,
+142,2020-03-31,2020-03-31,,,,,Unspecified,,
+143,2020-03-31,2020-03-31,,,,Dehiwala,Colombo,,
+144,2020-04-01,2020-04-01,48,F,,Jaffna,Jaffna,,
+145,2020-04-01,2020-04-01,,,,"Katupotha, Kurunegala",Kurunegala,,
+146,2020-04-01,2020-04-01,,,,,Jaffna,,
+147,2020-04-02,2020-04-02,,,,,Unspecified,,
+148,2020-04-02,2020-04-02,,,,,Unspecified,,
+149,2020-04-02,2020-04-02,,,,Maradana,Colombo,,
+150,2020-04-02,2020-04-02,,,,Maradana,Colombo,,
+151,2020-04-02,2020-04-02,,,,Dehiwala,Colombo,,
+152,2020-04-03,2020-04-03,,,,Puttalam,Puttalam,,
+153,2020-04-03,2020-04-03,,,,,Unspecified,,
+154,2020-04-03,2020-04-03,,,,Dehiwala,Colombo,,
+155,2020-04-03,2020-04-03,,,,Pannipitiya,Colombo,,
+156,2020-04-03,2020-04-03,,,,Matugama,Kalutara,,
+157,2020-04-03,2020-04-03,,,,,Unspecified,,
+158,2020-04-03,2020-04-03,,,,Jaffna,Jaffna,,
+159,2020-04-03,2020-04-03,,,,,Unspecified,,
+160,2020-04-04,2020-04-04,,,,Akurana,Kandy,,
+161,2020-04-04,2020-04-04,,,,,Unspecified,,
+162,2020-04-04,2020-04-04,,,,,Unspecified,,
+163,2020-04-04,2020-04-04,,,,Puttalam,Puttalam,,
+164,2020-04-04,2020-04-04,,,,Kolonnawa,Colombo,,
+165,2020-04-04,2020-04-04,,,,Ranala,Colombo,,
+166,2020-04-04,2020-04-04,,,,Dehiwala,Colombo,,
+167,2020-04-05,2020-04-05,,,,Akuressa,Matara,,
+168,2020-04-05,2020-04-05,,,,Negambo,Colombo,,
+169,2020-04-05,2020-04-05,,,,,Unspecified,,
+170,2020-04-05,2020-04-05,,,,,Unspecified,,
+171,2020-04-05,2020-04-05,,,,Puttalam,Puttalam,,
+172,2020-04-05,2020-04-05,,,,Puttalam,Puttalam,,
+173,2020-04-05,2020-04-05,,,,Puttalam,Puttalam,,
+174,2020-04-05,2020-04-05,,,,Ja-ela,Gampaha,,
+175,2020-04-05,2020-04-05,,,,Ja-ela,Gampaha,,
+176,2020-04-05,2020-04-05,,,,Puttalam,Puttalam,,
+177,2020-04-06,2020-04-06,,,,,Unspecified,,
+178,2020-04-06,2020-04-06,,,,,Unspecified,,
+179,2020-04-07,2020-04-07,,,,,Unspecified,,
+180,2020-04-07,2020-04-07,,,,,Unspecified,,
+181,2020-04-07,2020-04-07,,,,,Unspecified,,
+182,2020-04-07,2020-04-07,,,,,Unspecified,,
+183,2020-04-07,2020-04-07,,,,,Unspecified,,
+184,2020-04-07,2020-04-07,,,,,Unspecified,,
+185,2020-04-07,2020-04-07,,,,,Unspecified,,
+186,2020-04-08,2020-04-08,,,,,Unspecified,,
+187,2020-04-08,2020-04-08,,,,Mudduwa,Ratnapura,,
+188,2020-04-08,2020-04-08,,,,Mudduwa,Ratnapura,,
+189,2020-04-08,2020-04-08,,,,Akkaraipattu,Ampara,,
+190,2020-04-09,2020-04-09,,F,,Beruwala,Kalutara,,
 191,2020-04-11,2020-04-10,,M,,"Suduwella, Ja-ela",Gampaha,Discharged,Discharged from Iranavila hospital
+192,2020-04-11,2020-04-10,,M,,"Suduwella, Ja-ela",Gampaha,,
+193,2020-04-11,2020-04-10,,M,,"Suduwella, Ja-ela",Gampaha,,
+194,2020-04-11,2020-04-10,,M,,"Suduwella, Ja-ela",Gampaha,,
+195,2020-04-11,2020-04-10,,,,"Suduwella, Ja-ela",Gampaha,,
+196,2020-04-11,2020-04-10,,,,"Suduwella, Ja-ela",Gampaha,,
+197,2020-04-11,2020-04-10,,,,Dehiwala,Colombo,,
+198,2020-04-11,2020-04-11,,,,,Unspecified,,
+199,2020-04-11,2020-04-11,,,,,Unspecified,,
+200,2020-04-12,2020-04-12,,,,Beruwala,Kalutara,,
+201,2020-04-12,2020-04-12,,,,Beruwala,Kalutara,,
+202,2020-04-12,2020-04-12,,,,Beruwala,Kalutara,,
+203,2020-04-12,2020-04-12,,,,Beruwala,Kalutara,,
+204,2020-04-12,2020-04-12,,,,,Unspecified,,
+205,2020-04-12,2020-04-12,,,,,Unspecified,,
+206,2020-04-12,2020-04-12,,,,,Unspecified,,
+207,2020-04-12,2020-04-12,,,,,Unspecified,,
+208,2020-04-12,2020-04-12,,,,,Unspecified,,
+209,2020-04-12,2020-04-12,,,,,Unspecified,,
+210,2020-04-12,2020-04-12,,,,,Unspecified,,
+211,2020-04-13,2020-04-13,,,,"Suduwella, Ja-ela",Gampaha,,
+212,2020-04-13,2020-04-13,,,,"Suduwella, Ja-ela",Gampaha,,
+213,2020-04-13,2020-04-13,,,,"Suduwella, Ja-ela",Gampaha,,
+214,2020-04-13,2020-04-13,,,,"Suduwella, Ja-ela",Gampaha,,
+215,2020-04-13,2020-04-13,,,,,Unspecified,,
+216,2020-04-13,2020-04-13,,,,,Unspecified,,
+217,2020-04-13,2020-04-13,,,,,Unspecified,,
+218,2020-04-13,2020-04-13,,,,,Unspecified,,
+219,2020-04-14,2020-04-14,,,,"Ariyale, Jaffna",Jaffna,,
+220,2020-04-14,2020-04-14,,,,"Ariyale, Jaffna",Jaffna,,
+221,2020-04-14,2020-04-14,,,,"Ariyale, Jaffna",Jaffna,,
+222,2020-04-14,2020-04-14,,,,Jaffna,Jaffna,,
+223,2020-04-14,2020-04-14,,,,Jaffna,Jaffna,,
+224,2020-04-14,2020-04-14,,,,Jaffna,Jaffna,,
+225,2020-04-14,2020-04-14,,,,Jaffna,Jaffna,,
+226,2020-04-14,2020-04-14,,,,Jaffna,Jaffna,,
+227,2020-04-14,2020-04-14,,,,"Suduwella, Ja-Ela",Gampaha,,
 228,2020-04-14,2020-04-14,,,,"Suduwella, Ja-Ela",Gampaha,Hospitalized,positive again!
+229,2020-04-14,2020-04-14,,,,"Suduwella, Ja-Ela",Gampaha,,
+230,2020-04-14,2020-04-14,,,,"Suduwella, Ja-Ela",Gampaha,,
+231,2020-04-14,2020-04-14,,,,Beruwala,Kalutara,,
+230,2020-04-14,2020-04-14,,,,"Palawiya, Al-Casim city",Puttalam,,
+233,2020-04-14,2020-04-14,,,,Palai,Jaffna,,
+234,2020-04-15,2020-04-15,,,,Palali,Jaffna,,
+235,2020-04-15,2020-04-15,28,F,,Katukaliyawa QC,Puttalam,,
+236,2020-04-15,2020-04-15,15,F,,Kandakadu QC,Polonnaruwa,,
+237,2020-04-15,2020-04-15,,,,"Nagalagam street, Thotalaga",Colombo,,
 238,2020-04-15,2020-04-15,59,F,,Kotahena Keselwatta,Colombo,Hospitalized,"Discovered after admitted to Colombo General Hospital, Came to SL from IN(Dambadiva Vandana) on 12th March, quarantined for 14 days and infected after 33 days,"
+239,2020-04-17,2020-04-17,,M,,Kotahena Keselwatta,Colombo,,
+240,2020-04-17,2020-04-17,,M,,Kotahena Keselwatta,Colombo,,
+241,2020-04-17,2020-04-17,,M,,Kotahena Keselwatta,Colombo,,
+242,2020-04-17,2020-04-17,,,,Oluwil QC,Unspecified,,
+243,2020-04-17,2020-04-17,,,,Oluwil QC,Unspecified,,
+244,2020-04-17,2020-04-17,,,,Oluwil QC,Unspecified,,
+245,2020-04-18,2020-04-18,,,,Rambukkana,Kegalle,,
+246,2020-04-18,2020-04-18,,,,Kotahena Keselwatta,Colombo,,
+247,2020-04-18,2020-04-18,,,,Kotahena Keselwatta,Colombo,,
+248,2020-04-18,2020-04-18,,,,Kotahena Keselwatta,Colombo,,
+249,2020-04-18,2020-04-18,,,,Kotahena Keselwatta,Colombo,,
+250,2020-04-18,2020-04-18,,,,Kotahena Keselwatta,Colombo,,
+251,2020-04-18,2020-04-18,,,,Kotahena Keselwatta,Colombo,,
+252,2020-04-18,2020-04-18,,,,"Suduwella, Ja-Ela",Gampaha,,
+253,2020-04-18,2020-04-18,,,,"Suduwella, Ja-Ela",Gampaha,,
+254,2020-04-18,2020-04-18,,,,"Suduwella, Ja-Ela",Gampaha,,
+255,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+256,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+257,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+258,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+259,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+260,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+261,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+262,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+263,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+264,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+265,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+266,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+267,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+268,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+269,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+270,2020-04-19,2020-04-19,,,,Kotahena Keselwatta,Colombo,,
+271,2020-04-19,2020-04-19,,,,,Unspecified,,
+272,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+273,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+274,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+275,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+276,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+277,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+278,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+279,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+280,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+281,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+282,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+283,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+284,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+285,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+286,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+287,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+288,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+289,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+290,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+291,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+292,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+293,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+294,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+295,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+296,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+297,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+298,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+299,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+300,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+301,2020-04-20,2020-04-20,,,,Kotahena Keselwatta,Colombo,,
+302,2020-04-20,2020-04-20,2,,,Kotahena Keselwatta,Colombo,,
+303,2020-04-20,2020-04-20,,,,Boralesgamuwa,Colombo,,
+304,2020-04-20,2020-04-20,,,,Piliyandala,Colombo,,
+305,2020-04-21,2020-04-21,,,,Kotahena Keselwatta,Colombo,,
+306,2020-04-21,2020-04-21,,,,Kotahena Keselwatta,Colombo,,
+307,2020-04-21,2020-04-21,,,,Kotahena Keselwatta,Colombo,,
+308,2020-04-21,2020-04-21,,,,Kotahena Keselwatta,Colombo,,
+309,2020-04-21,2020-04-21,,,,Kotahena Keselwatta,Colombo,,
+310,2020-04-21,2020-04-21,,,,Warakapola,Kegalle,,
+311,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+312,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+313,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+314,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+315,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+316,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+317,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+318,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+319,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+320,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+321,2020-04-22,2020-04-22,,,,"Pannila, Beruwala",Kalutara,,
+322,2020-04-22,2020-04-22,,,,Polonnaruwa,Polonnaruwa,,
+323,2020-04-22,2020-04-22,,,,"Suduwella, Ja-Ela",Gampaha,,
+324,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+325,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+326,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+327,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+328,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+329,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+330,2020-04-22,2020-04-22,,,,Kotahena Keselwatta,Colombo,,
+331,2020-04-23,2020-04-23,,,,Kotahena Keselwatta,Colombo,,
+332,2020-04-23,2020-04-23,,,,Kotahena Keselwatta,Colombo,,
+333,2020-04-23,2020-04-23,,,,Kotahena Keselwatta,Colombo,,
+334,2020-04-23,2020-04-23,,F,,Kotahena Keselwatta,Colombo,,
+335,2020-04-23,2020-04-23,,M,,"Rathnotuwa, Wariyapola",Kurunegala,,
+336,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+337,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+338,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+339,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+340,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+341,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+342,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+343,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+344,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+345,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+346,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+347,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+348,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+349,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+350,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+351,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+352,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+353,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+354,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+355,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+356,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+357,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+358,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+359,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+360,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+361,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+362,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+363,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+364,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+365,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+366,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+367,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+368,2020-04-23,2020-04-23,,,,Welisara ,Naval Base - Welisara ,,
+369,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+370,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+371,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+372,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
 373,2020-04-24,2020-04-24,,,,Makola,Gampaha,Hospitalized,PHI
+374,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+375,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+376,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+377,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+378,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+379,2020-04-24,2020-04-24,,,,Kotahena Keselwatta,Colombo,,
+380,2020-04-24,2020-04-24,33,M,,"Hidinna kanda, Ratnapua",Ratnapura,,
+381,2020-04-24,2020-04-24,,,,"Udapola, Polgahawela",Kurunegala,,
+382,2020-04-24,2020-04-24,,,,Keeniyapola,Kurunegala,,
+383,2020-04-24,2020-04-24,,,,"Pahala Rathkinda, Girandurukotte",Badulla,,
+384,2020-04-24,2020-04-24,,,,Atabodhiwela,Kandy,,
 385,2020-04-24,2020-04-24,,,,,Anuradhapura,Hospitalized,(On leave) Naval Base - Welisara
 386,2020-04-24,2020-04-24,,,,,Badulla,Hospitalized,(On leave) Naval Base - Welisara
 387,2020-04-24,2020-04-24,,,,,Matara,Hospitalized,(On leave) Naval Base - Welisara
@@ -27,6 +391,14 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 390,2020-04-24,2020-04-24,,,,,Ampara,Hospitalized,(On leave) Naval Base - Welisara
 391,2020-04-24,2020-04-24,,,,,Ratnapura,Hospitalized,(On leave) Naval Base - Welisara
 392,2020-04-24,2020-04-24,,M,,Mahakachchikudiya,Vavuniya,Hospitalized,(On leave) Naval Base - Welisara
+393,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+394,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+395,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+396,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+397,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+398,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+399,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+400,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
 401,2020-04-24,2020-04-24,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 402,2020-04-24,2020-04-24,,,,"Udabaddawa, Kuliyapitiya",Kurunegala,Hospitalized,(On leave) Naval Base - Welisara
 403,2020-04-24,2020-04-24,,,,Alawwa,Kurunegala,Hospitalized,(On leave) Naval Base - Welisara
@@ -41,10 +413,41 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 412,2020-04-24,2020-04-24,,,,,Gampaha,Hospitalized,(On leave) Naval Base - Welisara
 413,2020-04-24,2020-04-24,,,,,Gampaha,Hospitalized,(On leave) Naval Base - Welisara
 414,2020-04-24,2020-04-24,,,,,Gampaha,Hospitalized,(On leave) Naval Base - Welisara
+415,2020-04-24,2020-04-24,,F,,Maradana,Colombo,,
+416,2020-04-24,2020-04-24,12,M,,Keselwatta,Colombo,,
+417,2020-04-24,2020-04-24,,,,Monaragala,Unspecified,,
+418,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+419,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+420,2020-04-24,2020-04-24,,,,Welisara ,Naval Base - Welisara ,,
+421,2020-04-25,2020-04-25,,,,Welisara ,Naval Base - Welisara ,,
+422,2020-04-25,2020-04-25,,,,Welisara ,Naval Base - Welisara ,,
+423,2020-04-25,2020-04-25,,,,,Unspecified,,
+424,2020-04-25,2020-04-25,,,,,Unspecified,,
+425,2020-04-25,2020-04-25,,,,,Unspecified,,
+426,2020-04-25,2020-04-25,,,,,Unspecified,,
+427,2020-04-25,2020-04-25,,,,,Unspecified,,
+428,2020-04-25,2020-04-25,,,,,Unspecified,,
+429,2020-04-25,2020-04-25,,,,,Unspecified,,
+430,2020-04-25,2020-04-25,,,,,Unspecified,,
+431,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+432,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+433,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+434,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+435,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+436,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+437,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+438,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+439,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+440,2020-04-25,2020-04-25,,,,Kotahena Keselwatta,Colombo,,
+441,2020-04-25,2020-04-25,,,,Katukeliyawa,Puttalam,,
+442,2020-04-25,2020-04-25,,,,Katukeliyawa,Puttalam,,
+443,2020-04-25,2020-04-25,,,,Katukeliyawa,Puttalam,,
 444,2020-04-25,2020-04-25,,,,Diyatalawa QC,Unspecified,Hospitalized,Repatriated from Oman
 445,2020-04-25,2020-04-25,,,,Diyatalawa QC,Unspecified,Hospitalized,Repatriated from Oman
 446,2020-04-25,2020-04-25,,,,Diyatalawa QC,Unspecified,Hospitalized,Repatriated from Maldives
 447,2020-04-25,2020-04-25,,,,,Unspecified,Hospitalized,An Army officer married to a Navy officer
+448,2020-04-25,2020-04-25,,,,,Unspecified,,
+449,2020-04-25,2020-04-25,,,,,Unspecified,,
 450,2020-04-25,2020-04-25,,,,"Ambalanthota,Pahalaborgama, Medagota ",Hambantota,Hospitalized,(On leave) Naval Base - Welisara
 451,2020-04-25,2020-04-25,,,,"Thanamalvila, 13 1/2th Mile post",Moneragala,Hospitalized,(On leave) Naval Base - Welisara
 452,2020-04-25,2020-04-25,,,,Padaviya,Polonnaruwa,Hospitalized,(On leave) Naval Base - Welisara
@@ -71,15 +474,139 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 473,2020-04-26,2020-04-26,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 474,2020-04-26,2020-04-26,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 475,2020-04-26,2020-04-26,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
+476,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+477,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+478,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+479,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+480,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+481,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+482,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+483,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+484,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+485,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+486,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+487,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+488,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+489,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+490,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+491,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+492,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+493,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+494,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+495,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+496,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+497,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+498,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+499,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+500,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+501,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+502,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+503,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+504,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+505,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+506,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+507,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+508,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+509,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+510,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+511,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+512,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+513,2020-04-26,2020-04-26,,,,Welisara ,Naval Base - Welisara ,,
+514,2020-04-26,2020-04-26,25,M,,Saliyapura,Anuradhapura,,
+515,2020-04-26,2020-04-26,,,,"Dabare Rd, Narahenpita",Colombo,,
 516,2020-04-26,2020-04-26,,,,Nikaweratiya,Kurunegala,Hospitalized,Navy close contacts
+517,2020-04-26,2020-04-26,,,,,Unspecified,,
+518,2020-04-26,2020-04-26,,,,,Unspecified,,
+519,2020-04-26,2020-04-26,,,,,Unspecified,,
+520,2020-04-26,2020-04-26,2,M,,"Thanamalvila, 13 1/2th Mile post",Moneragala,,
+521,2020-04-26,2020-04-26,,F,,"Thanamalvila, 13 1/2th Mile post",Moneragala,,
+522,2020-04-26,2020-04-26,,,,Kotahena Keselwatta,Colombo,,
+523,2020-04-26,2020-04-26,,,,Negombo,Gampaha,,
 524,2020-04-27,2020-04-27,,,,,Unspecified,Hospitalized,Air Force officer
+525,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+526,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+527,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+528,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+529,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+530,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+531,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+532,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+533,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+534,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+535,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+536,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+537,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+538,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+539,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+540,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+541,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+542,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+543,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+544,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+545,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+546,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+547,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+548,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+549,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+550,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+551,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+552,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+553,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+554,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+555,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+556,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+557,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+558,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+559,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+560,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+561,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+562,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+563,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+564,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+565,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+566,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+567,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+568,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+569,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+570,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+571,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+572,2020-04-27,2020-04-27,,,,Welisara ,Naval Base - Welisara ,,
+573,2020-04-27,2020-04-27,,,,"Teppankulama, Saliyapura",Anuradhapura,,
+574,2020-04-27,2020-04-27,72,F,,Polpithigama,Kurunegala,,
+575,2020-04-27,2020-04-27,,,,,Unspecified,,
+576,2020-04-27,2020-04-27,,,,,Unspecified,,
+577,2020-04-27,2020-04-27,,,,,Unspecified,,
+578,2020-04-27,2020-04-27,,,,,Unspecified,,
+579,2020-04-27,2020-04-27,,,,,Unspecified,,
+580,2020-04-27,2020-04-27,,,,,Unspecified,,
+581,2020-04-27,2020-04-27,,,,,Unspecified,,
+582,2020-04-27,2020-04-27,,,,,Unspecified,,
+583,2020-04-27,2020-04-27,,,,,Unspecified,,
+584,2020-04-27,2020-04-27,,,,,Unspecified,,
 585,2020-04-27,2020-04-27,,M,,Havelock lane,Colombo,Hospitalized,"Cleaning personnel, CMC, Suspected link to Bandaranayake Mawata, Keselwatta (Garbage truck's driver from Bandaranayake Mawata)"
 586,2020-04-27,2020-04-27,,,,"60 Watta, Torinton ",Colombo,Hospitalized,"From Bandaranayake Mawata, Keselwatta"
+587,2020-04-27,2020-04-27,,,,"Dabare Rd, Narahenpita",Colombo,,
+588,2020-04-27,2020-04-27,,,,"Dabare Rd, Narahenpita",Colombo,,
 589,2020-04-28,2020-04-28,,,,Medirigiriya,Polonnaruwa,Hospitalized,(On leave) Naval Base - Welisara
 590,2020-04-28,2020-04-28,,,,Aranayaka,Kegalle,Hospitalized,(On leave) Naval Base - Welisara
 591,2020-04-28,2020-04-28,,,,Agalawatta,Kalutara,Hospitalized,(On leave) Naval Base - Welisara
 592,2020-04-28,2020-04-28,,,,Polpithigama,Kurunegala,Hospitalized,(On leave) Naval Base - Welisara
 593,2020-04-28,2020-04-28,,,,Habarana,Anuradhapura,Hospitalized,(On leave) Naval Base - Welisara
+594,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+595,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+596,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+597,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+598,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+599,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+600,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+601,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+602,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+603,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+604,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+605,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+606,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+607,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
+608,2020-04-28,2020-04-28,,,,,Naval Base - Welisara ,,
 609,2020-04-28,2020-04-28,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 610,2020-04-28,2020-04-28,,,,,Unspecified,Hospitalized,Army 
 611,2020-04-28,2020-04-28,,,,,Unspecified,Hospitalized,Army 
@@ -93,6 +620,26 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 619,2020-04-28,2020-04-28,,,,Agalawatta,Kalutara,Hospitalized,Navy close contacts
 620,2020-04-29,2020-04-29,,,,"HInidurawa, Uhana",Ampara,Hospitalized,(On leave) Naval Base - Welisara
 621,2020-04-29,2020-04-29,,,,"Chulabaya mawata, Kanthale",Unspecified,Hospitalized,(On leave) Naval Base - Welisara
+622,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+623,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+624,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+625,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+626,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+627,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+628,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+629,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+630,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+631,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+632,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+633,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+634,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+635,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+636,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+637,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+638,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+639,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+640,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
+641,2020-04-29,2020-04-29,,,,,Naval Base - Welisara ,,
 642,2020-04-29,2020-04-29,,M,,Gunasinghepura,Colombo,Hospitalized,From a Air Force QC
 643,2020-04-29,2020-04-29,,,,Badulla,Badulla,Hospitalized,Navy close contacts (Agalawatta)
 644,2020-04-29,2020-04-29,,,,Thalathu-oya,Anuradhapura,Hospitalized,Navy close contacts (Agalawatta)
@@ -105,6 +652,11 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 651,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,Hospitalized,(On leave) Naval Base - Welisara
 652,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,Hospitalized,(On leave) Naval Base - Welisara
 653,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,Hospitalized,(On leave) Naval Base - Welisara
+654,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,,
+655,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,,
+656,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,,
+657,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,,
+658,2020-04-30,2020-04-30,,,,,Naval Base - Welisara ,,
 659,2020-04-30,2020-04-30,,,,,Unspecified,Hospitalized,QC
 660,2020-04-30,2020-04-30,,,,"Dabare Mawatha, Narahenpita",Colombo,Hospitalized,Close contacts to previous Dabare mawatha patients
 661,2020-04-30,2020-04-30,,,,"Suduwella, Ja-ela",Gampaha,Hospitalized,Oluvil QC
@@ -120,6 +672,23 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 671,2020-05-01,2020-05-01,,,,,Colombo,Hospitalized,Nachchikuda QC
 672,2020-05-01,2020-05-01,,,,Ja-Ela,Gampaha,Hospitalized,Positive again after recovered
 673,2020-05-01,2020-05-01,,,,Haguranketha,Nuwara Eliya,Hospitalized,(On leave) Naval Base - Welisara
+674,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+675,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+676,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+677,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+678,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+679,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+680,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+681,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+682,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+683,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+684,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+685,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+686,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+687,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+688,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+689,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
+690,2020-05-01,2020-05-01,,,,,Naval Base - Welisara ,,
 691,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 692,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 693,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
@@ -130,6 +699,8 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 698,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 699,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 700,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
+701,2020-05-02,2020-05-02,,,,,Naval Base - Welisara ,,
+702,2020-05-02,2020-05-02,,,,,Naval Base - Welisara ,,
 703,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,Mihintale QC - Navy close contacts
 704,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,Mihintale QC - Navy close contacts
 705,2020-05-02,2020-05-02,,,,,Unspecified,Hospitalized,Mihintale QC - Navy close contacts
@@ -179,6 +750,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 749,2020-05-04,2020-05-04,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 750,2020-05-04,2020-05-04,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 751,2020-05-04,2020-05-04,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
+752,2020-05-05,2020-05-05,52,F,,"Modara, Methsanda Niwasa",Colombo,,
 ,2020-05-05,2020-05-05,40,M,,"Bandaranakike Pura, Rajagiriya",Colombo,Hospitalized,Negative (previously identified as COVID-19 patients have been declared as COVID-19 negative (06th May)
 ,2020-05-05,2020-05-05,39,M,,"Salamulla, Kolonnawa",Colombo,Hospitalized,Negative (previously identified as COVID-19 patients have been declared as COVID-19 negative (06th May)
 ,2020-05-05,2020-05-05,,F,,Malabe,Colombo,Hospitalized,Nurse - CGH -  Negative (previously identified as COVID-19 patients have been declared as COVID-19 negative (06th May)
@@ -390,9 +962,73 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 958,2020-05-16,2020-05-16,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 959,2020-05-16,2020-05-16,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
 960,2020-05-16,2020-05-16,,,,,Unspecified,Hospitalized,(On leave) Naval Base - Welisara
+961,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+962,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+963,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+964,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+965,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+966,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+967,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+968,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+969,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+970,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+971,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+972,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+973,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+974,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+975,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+976,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+977,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+978,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
+979,2020-05-17,2020-05-17,,,,,Naval Base - Welisara ,,
 980,2020-05-17,2020-05-17,,,,,Overseas Arrivals (Quarantine Centers),Hospitalized,From UK
 981,2020-05-17,2020-05-17,,,,,Overseas Arrivals (Quarantine Centers),Hospitalized,From UK
+982,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+983,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+984,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+985,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+986,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+987,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+988,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+989,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+990,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
+991,2020-05-18,2020-05-18,,,,,Naval Base - Welisara ,,
 992,2020-05-18,2020-05-18,,,,,Overseas Arrivals (Quarantine Centers),Hospitalized,From Singapore
+993,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+994,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+995,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+996,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+997,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+998,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+999,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1000,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1001,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1002,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1003,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1004,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1005,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1006,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1007,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1008,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1009,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1010,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1011,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1012,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1013,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1014,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1015,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1016,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1017,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1018,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1019,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1020,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1021,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1022,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1023,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1024,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1025,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1026,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
+1027,2020-05-19,2020-05-19,,,,,Naval Base - Welisara ,,
 1028,2020-05-20,2020-05-20,,,,,Overseas Arrivals (Quarantine Centers),Hospitalized,From Kuwait
 1029,2020-05-21,2020-05-21,,,,,Unspecified,Hospitalized,From Dubai
 1030,2020-05-21,2020-05-21,,,,,Unspecified,Hospitalized,From Dubai
@@ -409,8 +1045,50 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1041,2020-05-21,2020-05-21,,,,,Unspecified,Hospitalized,From Dubai
 1042,2020-05-21,2020-05-21,,,,,Unspecified,Hospitalized,From Dubai
 1043,2020-05-21,2020-05-21,,,,,Unspecified,Hospitalized,From Dubai
+1044,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1045,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1046,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1047,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1048,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1049,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1050,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1051,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1052,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1053,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1054,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1055,2020-05-21,2020-05-21,,,,,Naval Base - Welisara ,,
+1056,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1057,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1058,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1059,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1060,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1061,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1062,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1063,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1064,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1065,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
+1066,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,,
 1067,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,Hospitalized,From Kuwait (in QC)
 1068,2020-05-22,2020-05-22,,,,,Naval Base - Welisara ,Hospitalized,From Malaysia (in QC)
+1069,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1070,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1071,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1072,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1073,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1074,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1075,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1076,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1077,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1078,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1079,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1080,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1081,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1082,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1083,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1084,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1085,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1086,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
+1087,2020-05-23,2020-05-23,,,,,Naval Base - Welisara ,,
 1088,2020-05-23,2020-05-23,,,,,Unspecified,Hospitalized,From Dubai (in QC)
 1089,2020-05-23,2020-05-23,,,,,Unspecified,Hospitalized,From Dubai (in QC)
 1090,2020-05-24,2020-05-24,51,F,,,Unspecified,Deceased,From Kuwait (in QC)
@@ -461,6 +1139,8 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1135,2020-05-24,2020-05-24,,,,,Unspecified,Hospitalized,From Kuwait (in QC)
 1136,2020-05-24,2020-05-24,,,,,Unspecified,Hospitalized,From Kuwait (in QC)
 1137,2020-05-24,2020-05-24,,,,,Unspecified,Hospitalized,From Kuwait (in QC)
+1138,2020-05-24,2020-05-24,,,,,Naval Base - Welisara ,,
+1139,2020-05-24,2020-05-24,,,,,Naval Base - Welisara ,,
 1140,2020-05-24,2020-05-24,,,,,Unspecified,Hospitalized,From Kuwait (in QC)
 1141,2020-05-24,2020-05-24,,,,,Unspecified,Hospitalized,From Indonesia (Dambulla Pelvehera QC)
 1142,2020-05-25,2020-05-25,,,,,Unspecified,Hospitalized,From Kuwait (in QC)
@@ -693,6 +1373,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1369,2020-05-27,2020-05-27,,,,,Naval Base - Welisara ,Hospitalized,Jaffna
 1370,2020-05-27,2020-05-27,,,,,Naval Base - Welisara ,Hospitalized,Jaffna
 1371,2020-05-27,2020-05-27,,,,,Naval Base - Welisara ,Hospitalized,Mulaitivu
+1372,2020-05-27,2020-05-27,,,,,Naval Base - Welisara ,,
 1373,2020-05-27,2020-05-27,,,,,Unspecified,Hospitalized,From Kuwait (in QC - Trincomalee)
 1374,2020-05-27,2020-05-27,,,,,Unspecified,Hospitalized,From Kuwait (in QC - Trincomalee)
 1375,2020-05-27,2020-05-27,,,,,Unspecified,Hospitalized,From Kuwait (in QC - Trincomalee)
@@ -842,6 +1523,32 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1519,2020-05-28,2020-05-28,,,,,Unspecified,Hospitalized,From Dubai (in QC - Giragama)
 1520,2020-05-28,2020-05-28,,,,,Unspecified,Hospitalized,From Dubai (in QC - Giragama)
 1521,2020-05-28,2020-05-28,,,,,Unspecified,Hospitalized,From Dubai (in QC - Giragama)
+1522,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1523,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1524,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1525,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1526,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1527,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1528,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1529,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1530,2020-05-28,2020-05-28,,,,,Naval Base - Welisara ,,
+1531,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1532,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1533,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1534,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1535,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1536,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1537,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1538,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1539,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1540,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1541,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1542,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1543,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1544,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1545,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1546,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
+1547,2020-05-29,2020-05-29,,,,,Naval Base - Welisara ,,
 1548,2020-05-29,2020-05-29,,,,,Unspecified,Hospitalized,Imported cases (in QC)
 1549,2020-05-29,2020-05-29,,,,,Unspecified,Hospitalized,Imported cases (in QC)
 1550,2020-05-29,2020-05-29,,,,,Unspecified,Hospitalized,Imported cases (in QC)
@@ -876,6 +1583,8 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1579,2020-05-30,2020-05-30,,,,,Naval Base - Welisara ,Hospitalized,QC - Kandakadu
 1580,2020-05-30,2020-05-30,,,,,Naval Base - Welisara ,Hospitalized,QC - Kandakadu
 1581,2020-05-30,2020-05-30,,,,,Naval Base - Welisara ,Hospitalized,QC. - Oluvil
+1582,2020-05-30,2020-05-30,,,,,Naval Base - Welisara ,,
+1583,2020-05-30,2020-05-30,,,,,Naval Base - Welisara ,,
 1584,2020-05-30,2020-05-30,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
 1585,2020-05-30,2020-05-30,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
 1586,2020-05-30,2020-05-30,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
@@ -920,6 +1629,10 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1625,2020-05-31,2020-05-31,,,,,Unspecified,Hospitalized,From Russia (in QC)
 1626,2020-05-31,2020-05-31,,,,,Unspecified,Hospitalized,From Russia (in QC)
 1627,2020-05-31,2020-05-31,,,,,Unspecified,Hospitalized,From Russia (in QC)
+1628,2020-05-31,2020-05-31,,,,,Naval Base - Welisara ,,
+1629,2020-05-31,2020-05-31,,,,,Naval Base - Welisara ,,
+1630,2020-05-31,2020-05-31,,,,,Naval Base - Welisara ,,
+1631,2020-05-31,2020-05-31,,,,,Naval Base - Welisara ,,
 1632,2020-05-31,2020-05-31,,,,,Unspecified,Hospitalized,From Bangladesh (in QC)
 1633,2020-05-31,2020-05-31,,,,,Unspecified,Hospitalized,From Bangladesh (in QC)
 1634,2020-06-01,2020-06-01,,,,,Naval Base - Welisara ,Hospitalized,Mullaitivu
@@ -932,6 +1645,13 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1641,2020-06-01,2020-06-01,,,,,Unspecified,Hospitalized,From Bangladesh (in QC)
 1642,2020-06-01,2020-06-01,,,,,Unspecified,Hospitalized,From Bangladesh (in QC)
 1643,2020-06-01,2020-06-01,,,,,Unspecified,Hospitalized,From Bangladesh (in QC)
+1644,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
+1645,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
+1646,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
+1647,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
+1648,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
+1649,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
+1650,2020-06-02,2020-06-02,,,,,Naval Base - Welisara ,,
 1651,2020-06-02,2020-06-02,,,,,Unspecified,Hospitalized,Navy close contact
 1652,2020-06-02,2020-06-02,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
 1653,2020-06-02,2020-06-02,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
@@ -965,6 +1685,37 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1681,2020-06-02,2020-06-02,,,,,Unspecified,Hospitalized,From Kuwait (in QC - Trincomalee)
 1682,2020-06-02,2020-06-02,,,,,Unspecified,Hospitalized,From Russia (in QC)
 1683,2020-06-02,2020-06-02,,,,,Unspecified,Hospitalized,From Russia (in QC)
+1684,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1685,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1686,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1687,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1688,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1689,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1690,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1691,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1692,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1693,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1694,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1695,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1696,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1697,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1698,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1699,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1700,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1701,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1702,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1703,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1704,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1705,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1706,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1707,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1708,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1709,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1710,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1711,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1712,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1713,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
+1714,2020-06-03,2020-06-03,,,,,Naval Base - Welisara ,,
 1715,2020-06-03,2020-06-03,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
 1716,2020-06-03,2020-06-03,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
 1717,2020-06-03,2020-06-03,,,,,Unspecified,Hospitalized,From Qatar (in QC - Ampara)
@@ -1000,20 +1751,67 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1747,2020-06-03,2020-06-03,,,,,Unspecified,Hospitalized,From Bangladesh (Diyathalawa QC)
 1748,2020-06-03,2020-06-03,,,,,Unspecified,Hospitalized,From Kuwait (in QC - Trincomalee)
 1749,2020-06-03,2020-06-03,,,,,Unspecified,Hospitalized,From Kuwait (in QC - Mihintale)
+1750,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1751,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1752,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1753,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1754,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1755,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1756,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1757,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1758,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1759,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1760,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1761,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1762,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1763,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1764,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1765,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1766,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1767,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1768,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1769,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1770,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1771,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1772,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1773,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1774,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1775,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1776,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1777,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1778,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1779,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1780,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1781,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1782,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1783,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1784,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1785,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
 1786,2020-06-04,2020-06-04,,,,,Unspecified,Hospitalized,From Bangladesh (Diyathalawa QC)
 1787,2020-06-04,2020-06-04,,,,,Unspecified,Hospitalized,From Dubai (in QC - Giragama)
 1788,2020-06-04,2020-06-04,,,,,Unspecified,Hospitalized,From India
 1789,2020-06-04,2020-06-04,,,,,Unspecified,Hospitalized,From India
 1790,2020-06-04,2020-06-04,,,,,Unspecified,Hospitalized,From India
 1791,2020-06-04,2020-06-04,,,,,Unspecified,Hospitalized,From Bangladesh (Diyathalawa QC)
+1792,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1793,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1794,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1795,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1796,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
+1797,2020-06-04,2020-06-04,,,,,Naval Base - Welisara ,,
 1798,2020-06-05,2020-06-05,,,,,Unspecified,Hospitalized,From Bangladesh (Rantambe QC)
 1799,2020-06-05,2020-06-05,,,,,Unspecified,Hospitalized,From Bangladesh (Rantambe QC)
+1800,2020-06-05,2020-06-05,,,,,Naval Base - Welisara ,,
+1801,2020-06-05,2020-06-05,,,,,Naval Base - Welisara ,,
 1802,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,Hospitalized,Pompemadu QC
 1803,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,Hospitalized,Pompemadu QC
 1804,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,Hospitalized,Pompemadu QC
 1805,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,Hospitalized,Walisara QC
 1806,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,Hospitalized,Walisara QC
 1807,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,Hospitalized,Periyamadu QC
+1808,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,,
+1809,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,,
+1810,2020-06-06,2020-06-06,,,,,Naval Base - Welisara ,,
 1811,2020-06-06,2020-06-06,,,,,Unspecified,Hospitalized,From Russia (Pitipana QC)
 1812,2020-06-06,2020-06-06,,,,,Unspecified,Hospitalized,From Russia (Pitipana QC)
 1813,2020-06-06,2020-06-06,,,,,Unspecified,Hospitalized,From Russia (Pitipana QC)
@@ -1061,6 +1859,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1855,2020-06-08,2020-06-08,,,,,Unspecified,Hospitalized,From Chennai (Katukaliyawa QC)
 1856,2020-06-08,2020-06-08,,,,,Unspecified,Hospitalized,From Chennai (Katukaliyawa QC)
 1857,2020-06-08,2020-06-08,,,,,Unspecified,Hospitalized,From Chennai (Katukaliyawa QC)
+1858,2020-06-09,2020-06-09,,,,,Naval Base - Welisara ,,
 1859,2020-06-09,2020-06-09,,,,,Unspecified,Hospitalized,From Qatar (Ampara QC)
 1860,2020-06-10,2020-06-10,,,,,Naval Base - Welisara ,Hospitalized,Iyyakkachchi & Mullaitivu QC
 1861,2020-06-10,2020-06-10,,,,,Naval Base - Welisara ,Hospitalized,Iyyakkachchi & Mullaitivu QC
@@ -1072,12 +1871,26 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1867,2020-06-10,2020-06-10,,,,,Naval Base - Welisara ,Hospitalized,Iyyakkachchi & Mullaitivu QC
 1868,2020-06-10,2020-06-10,,,,,Unspecified,Hospitalized,From Qatar (Palangahatenna QC)
 1869,2020-06-10,2020-06-10,,,,,Unspecified,Hospitalized,"From Mumbai, India (Diyathalawa QC)"
+1870,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1871,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1872,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1873,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1874,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1875,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1876,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
+1877,2020-06-11,2020-06-11,,,,,Naval Base - Welisara ,,
 1878,2020-06-12,2020-06-12,,,,,Naval Base - Welisara ,Hospitalized,Vidaththalai QC
 1879,2020-06-12,2020-06-12,,,,,Naval Base - Welisara ,Hospitalized,Mullaitivu QC
 1880,2020-06-12,2020-06-12,,,,,Unspecified,Hospitalized,From Kuwait (Ampara QC)
+1881,2020-06-13,2020-06-13,,,,,Naval Base - Welisara ,,
 1882,2020-06-13,2020-06-13,,,,,Unspecified,Hospitalized,From Qatar (Ampara QC)
 1883,2020-06-13,2020-06-13,,,,,Unspecified,Hospitalized,From Qatar (Ampara QC)
 1884,2020-06-13,2020-06-13,,,,,Unspecified,Hospitalized,"From Chennai, India (Katukeliyawa QC)"
+1885,2020-06-14,2020-06-14,,,,,Naval Base - Welisara ,,
+1886,2020-06-14,2020-06-14,,,,,Naval Base - Welisara ,,
+1887,2020-06-14,2020-06-14,,,,,Naval Base - Welisara ,,
+1888,2020-06-14,2020-06-14,,,,,Naval Base - Welisara ,,
+1889,2020-06-14,2020-06-14,,,,,Naval Base - Welisara ,,
 1890,2020-06-15,2020-06-15,,,,,Unspecified,Hospitalized,From Maldives (in QC)
 1891,2020-06-15,2020-06-15,,,,,Unspecified,Hospitalized,From Maldives (in QC)
 1892,2020-06-15,2020-06-15,,,,,Unspecified,Hospitalized,From Maldives (in QC)
@@ -1091,10 +1904,21 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1900,2020-06-15,2020-06-15,,,,,Unspecified,Hospitalized,From Kuwait (Ampara QC)
 1901,2020-06-15,2020-06-15,,,,,Unspecified,Hospitalized,From Bangladesh (in QC)
 1902,2020-06-15,2020-06-15,,,,,Unspecified,Hospitalized,From Pakistan (in QC)
+1903,2020-06-15,2020-06-15,,,,,Naval Base - Welisara ,,
+1904,2020-06-15,2020-06-15,,,,,Naval Base - Welisara ,,
+1905,2020-06-15,2020-06-15,,,,,Naval Base - Welisara ,,
 1906,2020-06-16,2020-06-16,,,,,Unspecified,Hospitalized,From Iran (Iranian workers - Uma Oya project)
 1907,2020-06-16,2020-06-16,,,,,Unspecified,Hospitalized,From Iran (Iranian workers - Uma Oya project)
 1908,2020-06-16,2020-06-16,,,,,Unspecified,Hospitalized,From Iran (Iranian workers - Uma Oya project)
 1909,2020-06-16,2020-06-16,,,,,Unspecified,Hospitalized,From Iran (Iranian workers - Uma Oya project)
+1910,2020-06-16,2020-06-16,,,,,Naval Base - Welisara ,,
+1911,2020-06-16,2020-06-16,,,,,Naval Base - Welisara ,,
+1912,2020-06-16,2020-06-16,,,,,Naval Base - Welisara ,,
+1913,2020-06-16,2020-06-16,,,,,Naval Base - Welisara ,,
+1914,2020-06-16,2020-06-16,,,,,Naval Base - Welisara ,,
+1915,2020-06-16,2020-06-16,,,,,Naval Base - Welisara ,,
+1916,2020-06-17,2020-06-17,,,,,Naval Base - Welisara ,,
+1917,2020-06-17,2020-06-17,,,,,Naval Base - Welisara ,,
 1918,2020-06-17,2020-06-17,,,,,Unspecified,Hospitalized,"From Chennai, India (Katukeliyawa QC)"
 1919,2020-06-17,2020-06-17,,,,,Unspecified,Hospitalized,"From Chennai, India (Katukeliyawa QC)"
 1920,2020-06-17,2020-06-17,,,,,Unspecified,Hospitalized,"From Chennai, India (Katukeliyawa QC)"
@@ -1176,6 +2000,15 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 1996,2020-06-24,2020-06-24,,,,,Unspecified,Hospitalized,From USA (in a hotel | QC)
 1997,2020-06-24,2020-06-24,,,,,Unspecified,Hospitalized,From USA (in a hotel | QC)
 1998,2020-06-24,2020-06-24,,,,,Unspecified,Hospitalized,From USA (in a hotel | QC)
+1999,2020-06-24,2020-06-24,,,,,Naval Base - Welisara ,,
+2000,2020-06-24,2020-06-24,,,,,Naval Base - Welisara ,,
+2001,2020-06-24,2020-06-24,,,,,Naval Base - Welisara ,,
+2002,2020-06-25,2020-06-25,,,,,Naval Base - Welisara ,,
+2003,2020-06-25,2020-06-25,,,,,Naval Base - Welisara ,,
+2004,2020-06-25,2020-06-25,,,,,Naval Base - Welisara ,,
+2005,2020-06-25,2020-06-25,,,,,Naval Base - Welisara ,,
+2006,2020-06-25,2020-06-25,,,,,Naval Base - Welisara ,,
+2007,2020-06-25,2020-06-25,,,,,Naval Base - Welisara ,,
 2008,2020-06-25,2020-06-25,,,,,Unspecified,Hospitalized,Sea marshal (Bussa QC)
 2009,2020-06-25,2020-06-25,,,,,Unspecified,Hospitalized,Sea marshal (Bussa QC)
 2010,2020-06-25,2020-06-25,,,,,Unspecified,Hospitalized,Sea marshal (Bussa QC)
@@ -1785,6 +2618,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 2614,2020-07-12,2020-07-12,,,,"Pitabeddara, Aguruwana",Matara,Hospitalized,Kandakadu counselor (an Army officer)
 2615,2020-07-12,2020-07-12,,,,"Yakkala, Werellawatta",Gampaha,Hospitalized,Kandakadu counselor 
 2616,2020-07-12,2020-07-12,,,,"Yakkala, Werellawatta",Gampaha,Hospitalized,Kandakadu counselor's driver
+2617,2020-07-12,2020-07-12,,,,,Unspecified,,
 2618,2020-07-13,2020-07-13,,,,"Rajanganaya-yaya 1,3, 5",Anuradhapura,Hospitalized,Kandakadu counselor's close contact
 2619,2020-07-13,2020-07-13,,,,"Rajanganaya-yaya 1,3, 5",Anuradhapura,Hospitalized,Kandakadu counselor's close contact
 2620,2020-07-13,2020-07-13,,,,,Unspecified,Hospitalized,From Maldives (in a QC)
@@ -2006,6 +2840,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 2836,2020-08-05,2020-08-05,,,,,Senapura Rehabilitation Center,Hospitalized,Senapura inmates
 2837,2020-08-05,2020-08-05,,,,,Unspecified,Hospitalized,From UAE (in a QC)
 2838,2020-08-05,2020-08-05,,,,,Unspecified,Hospitalized,From UAE (in a QC)
+2839,2020-08-05,2020-08-05,,,,,Unspecified,,
 2840,2020-08-08,2020-08-08,,,,,Unspecified,Hospitalized,From Saudi Arabia (Widattapalei QC)
 2841,2020-08-08,2020-08-08,,,,,Unspecified,Hospitalized,From Saudi Arabia (Widattapalei QC)
 2842,2020-08-09,2020-08-09,,,,,Senapura Rehabilitation Center,Hospitalized,Senapura inmates
@@ -2496,6 +3331,9 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 3328,2020-09-24,2020-09-24,,,,,Unspecified,Hospitalized,From Qatar (in a QC)
 3329,2020-09-24,2020-09-24,,,,,Unspecified,Hospitalized,From Kuwait (in a QC)
 3330,2020-09-24,2020-09-24,,,,,Unspecified,Hospitalized,From Kuwait (in a QC)
+3331,2020-09-24,2020-09-24,,,,,Unspecified,,
+3332,2020-09-24,2020-09-24,,,,,Unspecified,,
+3333,2020-09-24,2020-09-24,,,,,Unspecified,,
 3334,2020-09-25,2020-09-25,,,,,Unspecified,Hospitalized,From UAE (in a QC)
 3335,2020-09-25,2020-09-25,,,,,Unspecified,Hospitalized,From UAE (in a QC)
 3336,2020-09-25,2020-09-25,,,,,Unspecified,Hospitalized,From Qatar (in a QC)
@@ -4200,6 +5038,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 5035,2020-10-13,2020-10-13,,,,,Unspecified,Hospitalized,Close contact to Divulapitiya apparel factory workers
 5036,2020-10-13,2020-10-13,,,,,Unspecified,Hospitalized,Close contact to Divulapitiya apparel factory workers
 5037,2020-10-13,2020-10-13,,,,,Unspecified,Hospitalized,Close contact to Divulapitiya apparel factory workers
+5038,2020-10-13,2020-10-13,,,,Kahawatta,Ratnapura,,
 5039,2020-10-14,2020-10-14,,,,,Unspecified,Hospitalized,Close contact to Divulapitiya apparel factory workers (in a QC)
 5040,2020-10-14,2020-10-14,,,,,Unspecified,Hospitalized,Close contact to Divulapitiya apparel factory workers (in a QC)
 5041,2020-10-14,2020-10-14,,,,,Unspecified,Hospitalized,Close contact to Divulapitiya apparel factory workers (in a QC)
@@ -6571,6 +7410,118 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 7407,2020-10-24,2020-10-24,,,,Udugama,Galle,Hospitalized,Fishery harbour cluster
 7408,2020-10-24,2020-10-24,,,,Bluemendal,Colombo,Hospitalized,Fishery harbour cluster
 7409,2020-10-24,2020-10-24,,,,,Unspecified,Hospitalized,Fishery harbour cluster
+7410,2020-10-24,2020-10-24,,,,Modara,Colombo,,
+7411,2020-10-24,2020-10-24,,,,Modara,Colombo,,
+7412,2020-10-24,2020-10-24,,,,Modara,Colombo,,
+7413,2020-10-24,2020-10-24,,,,Modara,Colombo,,
+7414,2020-10-24,2020-10-24,,,,Modara,Colombo,,
+7415,2020-10-24,2020-10-24,,,,Modara,Colombo,,
+7416,2020-10-24,2020-10-24,,,,Borella,Colombo,,
+7417,2020-10-24,2020-10-24,,,,Borella,Colombo,,
+7418,2020-10-24,2020-10-24,,,,Borella,Colombo,,
+7419,2020-10-24,2020-10-24,,,,Grandpass,Colombo,,
+7420,2020-10-24,2020-10-24,,,,Grandpass,Colombo,,
+7421,2020-10-24,2020-10-24,,,,Grandpass,Colombo,,
+7422,2020-10-24,2020-10-24,,,,Grandpass,Colombo,,
+7423,2020-10-24,2020-10-24,,,,Kirulapone,Colombo,,
+7424,2020-10-24,2020-10-24,,,,Kirulapone,Colombo,,
+7425,2020-10-24,2020-10-24,,,,Maradana,Colombo,,
+7426,2020-10-24,2020-10-24,,,,Maradana,Colombo,,
+7427,2020-10-24,2020-10-24,,,,Narahenpita,Colombo,,
+7428,2020-10-24,2020-10-24,,,,Mirihana,Colombo,,
+7429,2020-10-24,2020-10-24,,,,Colombo fort,Colombo,,
+7430,2020-10-24,2020-10-24,,,,Grandpass,Colombo,,
+7431,2020-10-24,2020-10-24,,,,Grandpass,Colombo,,
+7432,2020-10-24,2020-10-24,,,,Kotahena,Colombo,,
+7433,2020-10-24,2020-10-24,,,,Kotahena,Colombo,,
+7434,2020-10-24,2020-10-24,,,,Mattakuliya,Colombo,,
+7435,2020-10-24,2020-10-24,,,,Mattakuliya,Colombo,,
+7436,2020-10-24,2020-10-24,,,,Mattakuliya,Colombo,,
+7437,2020-10-24,2020-10-24,,,,Bluemandal,Colombo,,
+7438,2020-10-24,2020-10-24,,,,Bluemandal,Colombo,,
+7439,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7440,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7441,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7442,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7443,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7444,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7445,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7446,2020-10-24,2020-10-24,,,,Ganemulla,Gampaha,,
+7447,2020-10-24,2020-10-24,,,,Peliyagoda,Gampaha,,
+7448,2020-10-24,2020-10-24,,,,Peliyagoda,Gampaha,,
+7449,2020-10-24,2020-10-24,,,,Peliyagoda,Gampaha,,
+7450,2020-10-24,2020-10-24,,,,Peliyagoda,Gampaha,,
+7451,2020-10-24,2020-10-24,,,,Peliyagoda,Gampaha,,
+7452,2020-10-24,2020-10-24,,,,Peliyagoda,Gampaha,,
+7453,2020-10-24,2020-10-24,,,,Dematagoda,Gampaha,,
+7454,2020-10-24,2020-10-24,,,,Dematagoda,Gampaha,,
+7455,2020-10-24,2020-10-24,,,,Kaduwela,Gampaha,,
+7456,2020-10-24,2020-10-24,,,,Kaduwela,Gampaha,,
+7457,2020-10-24,2020-10-24,,,,Horempella,Gampaha,,
+7458,2020-10-24,2020-10-24,,,,Udugampola,Gampaha,,
+7459,2020-10-24,2020-10-24,,,,Dompe,Gampaha,,
+7460,2020-10-24,2020-10-24,,,,Pugoda,Gampaha,,
+7461,2020-10-24,2020-10-24,,,,Pugoda,Gampaha,,
+7462,2020-10-24,2020-10-24,,,,Nittambuwa,Gampaha,,
+7463,2020-10-24,2020-10-24,,,,Yakkala,Gampaha,,
+7464,2020-10-24,2020-10-24,,,,Pelwela,Gampaha,,
+7465,2020-10-24,2020-10-24,,,,Seeduwa,Gampaha,,
+7466,2020-10-24,2020-10-24,,,,Seeduwa,Gampaha,,
+7467,2020-10-24,2020-10-24,,,,Matugama,Kalutara,,
+7468,2020-10-24,2020-10-24,,,,Matugama,Kalutara,,
+7469,2020-10-24,2020-10-24,,,,Bulathsinhala,Kalutara,,
+7470,2020-10-24,2020-10-24,,,,Agalawatta,Kalutara,,
+7471,2020-10-24,2020-10-24,,,,Agalawatta,Kalutara,,
+7472,2020-10-24,2020-10-24,,,,Agalawatta,Kalutara,,
+7473,2020-10-24,2020-10-24,,,,Palindanuwara,Kalutara,,
+7474,2020-10-24,2020-10-24,,,,Palindanuwara,Kalutara,,
+7475,2020-10-24,2020-10-24,,,,Kuliyapitiya,Kurunegala,,
+7476,2020-10-24,2020-10-24,,,,Kuliyapitiya,Kurunegala,,
+7477,2020-10-24,2020-10-24,,,,Kuliyapitiya,Kurunegala,,
+7478,2020-10-24,2020-10-24,,,,Dummalasuriya,Kurunegala,,
+7479,2020-10-24,2020-10-24,,,,Dummalasuriya,Kurunegala,,
+7480,2020-10-24,2020-10-24,,,,Dambadeniya,Kurunegala,,
+7481,2020-10-24,2020-10-24,,,,Giriulla,Kurunegala,,
+7482,2020-10-24,2020-10-24,,,,Giriulla,Kurunegala,,
+7483,2020-10-24,2020-10-24,41,M,,Ja-Ela Thisera Mawata,Gampaha,,
+7484,2020-10-24,2020-10-24,,,,,Unspecified,,
+7485,2020-10-24,2020-10-24,,,,,Unspecified,,
+7486,2020-10-24,2020-10-24,,,,,Unspecified,,
+7487,2020-10-24,2020-10-24,,,,,Unspecified,,
+7488,2020-10-24,2020-10-24,,,,,Unspecified,,
+7489,2020-10-24,2020-10-24,,,,,Unspecified,,
+7490,2020-10-24,2020-10-24,,,,,Unspecified,,
+7491,2020-10-24,2020-10-24,,,,,Unspecified,,
+7492,2020-10-24,2020-10-24,,,,,Unspecified,,
+7493,2020-10-24,2020-10-24,,,,,Unspecified,,
+7494,2020-10-24,2020-10-24,,,,,Unspecified,,
+7495,2020-10-24,2020-10-24,,,,,Unspecified,,
+7496,2020-10-24,2020-10-24,,,,,Unspecified,,
+7497,2020-10-24,2020-10-24,,,,,Unspecified,,
+7498,2020-10-24,2020-10-24,,,,,Unspecified,,
+7499,2020-10-24,2020-10-24,,,,,Unspecified,,
+7500,2020-10-24,2020-10-24,,,,,Unspecified,,
+7501,2020-10-24,2020-10-24,,,,,Unspecified,,
+7502,2020-10-24,2020-10-24,,,,,Unspecified,,
+7503,2020-10-24,2020-10-24,,,,,Unspecified,,
+7504,2020-10-24,2020-10-24,,,,,Unspecified,,
+7505,2020-10-24,2020-10-24,,,,,Unspecified,,
+7506,2020-10-24,2020-10-24,,,,,Unspecified,,
+7507,2020-10-24,2020-10-24,,,,,Unspecified,,
+7508,2020-10-24,2020-10-24,,,,,Unspecified,,
+7509,2020-10-24,2020-10-24,,,,,Unspecified,,
+7510,2020-10-24,2020-10-24,,,,,Unspecified,,
+7511,2020-10-24,2020-10-24,,,,,Unspecified,,
+7512,2020-10-24,2020-10-24,,,,,Unspecified,,
+7513,2020-10-24,2020-10-24,,,,,Unspecified,,
+7514,2020-10-24,2020-10-24,,,,,Unspecified,,
+7515,2020-10-24,2020-10-24,,,,,Unspecified,,
+7516,2020-10-24,2020-10-24,,,,,Unspecified,,
+7517,2020-10-24,2020-10-24,,,,,Unspecified,,
+7518,2020-10-24,2020-10-24,,,,,Unspecified,,
+7519,2020-10-24,2020-10-24,,,,,Unspecified,,
+7520,2020-10-24,2020-10-24,,,,,Unspecified,,
+7521,2020-10-24,2020-10-24,,,,,Unspecified,,
 7522,2020-10-25,2020-10-25,70,F,,Colombo 02,Colombo,Deceased,Close contacts (in a QC)
 7523,2020-10-25,2020-10-25,,,,,Colombo,Hospitalized,Close contacts (in a QC)
 7524,2020-10-25,2020-10-25,,,,,Colombo,Hospitalized,Close contacts (in a QC)
@@ -7464,6 +8415,7 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 8412,2020-10-26,2020-10-26,,,,Haliela,Badulla,Hospitalized,Close contacts (Not in a QC)
 8413,2020-10-26,2020-10-26,,,,Dankotuwa,Puttalam,Hospitalized,Close contacts (Not in a QC)
 8414,2020-10-27,2020-10-27,87,F,,"Wekanda, Slav Island",Colombo,Deceased,Peliyagoda Fish market 
+8415,2020-10-27,2020-10-27,19,M,,Keselwatta,Colombo,,
 8416,2020-10-27,2020-10-27,,,,,Colombo,Hospitalized,In a QC
 8417,2020-10-27,2020-10-27,,,,,Colombo,Hospitalized,In a QC
 8418,2020-10-27,2020-10-27,,,,,Colombo,Hospitalized,Peliyagoda cluster
@@ -8840,3 +9792,1272 @@ Number,Date_Announced,Date_Added,Age,Gender,"Residence_City, Prefecture",Ditecte
 9789,2020-10-29,2020-10-29,,,,,Unspecified,Hospitalized,"a sea marshal(a foringner, in a QC)"
 9790,2020-10-29,2020-10-29,,,,,Unspecified,Hospitalized,"a sea marshal(a foringner, in a QC)"
 9791,2020-10-29,2020-10-29,,,,,Unspecified,Hospitalized,"a sea marshal(a Sri Lankan, in a QC)"
+9792,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9793,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9794,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9795,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9796,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9797,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9798,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9799,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9800,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9801,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9802,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9803,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9804,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9805,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9806,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9807,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9808,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9809,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9810,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9811,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9812,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9813,2020-10-30,2020-10-30,,,,Waththala,Gampaha,,
+9814,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9815,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9816,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9817,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9818,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9819,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9820,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9821,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9822,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9823,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9824,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9825,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9826,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9827,2020-10-30,2020-10-30,,,,Mahara,Gampaha,,
+9828,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9829,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9830,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9831,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9832,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9833,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9834,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9835,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9836,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9837,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9838,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9839,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9840,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9841,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9842,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9843,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9844,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9845,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9846,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9847,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9848,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9849,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9850,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9851,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9852,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9853,2020-10-30,2020-10-30,,,,Biyagama,Gampaha,,
+9854,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9855,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9856,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9857,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9858,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9859,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9860,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9861,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9862,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9863,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9864,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9865,2020-10-30,2020-10-30,,,,Minuwangoda,Gampaha,,
+9866,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9867,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9868,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9869,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9870,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9871,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9872,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9873,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9874,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9875,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9876,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9877,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9878,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9879,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9880,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9881,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9882,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9883,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9884,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9885,2020-10-30,2020-10-30,,,,Negombo,Gampaha,,
+9886,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9887,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9888,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9889,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9890,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9891,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9892,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9893,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9894,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9895,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9896,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9897,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9898,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9899,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9900,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9901,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9902,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9903,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9904,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9905,2020-10-30,2020-10-30,,,,Katana,Gampaha,,
+9906,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9907,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9908,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9909,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9910,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9911,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9912,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9913,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9914,2020-10-30,2020-10-30,,,,Udupila,Gampaha,,
+9915,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9916,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9917,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9918,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9919,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9920,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9921,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9922,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9923,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9924,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9925,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9926,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9927,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9928,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9929,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9930,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9931,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9932,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9933,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9934,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9935,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9936,2020-10-30,2020-10-30,,,,Ja Ela,Gampaha,,
+9937,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9938,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9939,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9940,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9941,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9942,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9943,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9944,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9945,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9946,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9947,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9948,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9949,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9950,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9951,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9952,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9953,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9954,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9955,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9956,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9957,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9958,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9959,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9960,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9961,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9962,2020-10-30,2020-10-30,,,,Gampaha,Gampaha,,
+9963,2020-10-30,2020-10-30,,,,Kadawatha,Gampaha,,
+9964,2020-10-30,2020-10-30,,,,Kadawatha,Gampaha,,
+9965,2020-10-30,2020-10-30,,,,Kadawatha,Gampaha,,
+9966,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9967,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9968,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9969,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9970,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9971,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9972,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9973,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9974,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9975,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9976,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9977,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9978,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9979,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9980,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9981,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9982,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9983,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9984,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9985,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9986,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9987,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9988,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9989,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9990,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9991,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9992,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9993,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9994,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9995,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9996,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9997,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9998,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+9999,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10000,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10001,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10002,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10003,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10004,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10005,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10006,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10007,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10008,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10009,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10010,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10011,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10012,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10013,2020-10-30,2020-10-30,,,,Pitipana,Gampaha,,
+10014,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10015,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10016,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10017,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10018,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10019,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10020,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10021,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10022,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10023,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10024,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10025,2020-10-30,2020-10-30,,,,Horampalla,Gampaha,,
+10026,2020-10-30,2020-10-30,,,,Meerigama,Gampaha,,
+10027,2020-10-30,2020-10-30,,,,Meerigama,Gampaha,,
+10028,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10029,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10030,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10031,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10032,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10033,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10034,2020-10-30,2020-10-30,,,,Peliyagoda,Gampaha,,
+10035,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10036,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10037,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10038,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10039,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10040,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10041,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10042,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10043,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10044,2020-10-30,2020-10-30,,,,Kelaniya,Gampaha,,
+10045,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10046,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10047,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10048,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10049,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10050,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10051,2020-10-30,2020-10-30,,,,Ragama,Gampaha,,
+10052,2020-10-30,2020-10-30,,,,Meegahawaththa,Gampaha,,
+10053,2020-10-30,2020-10-30,,,,Meegahawaththa,Gampaha,,
+10054,2020-10-30,2020-10-30,,,,Meegahawaththa,Gampaha,,
+10055,2020-10-30,2020-10-30,,,,Meegahawaththa,Gampaha,,
+10056,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10057,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10058,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10059,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10060,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10061,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10062,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10063,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10064,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10065,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10066,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10067,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10068,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10069,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10070,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10071,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10072,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10073,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10074,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10075,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10076,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10077,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10078,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10079,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10080,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10081,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10082,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10083,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10084,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10085,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10086,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10087,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10088,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10089,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10090,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10091,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10092,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10093,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10094,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10095,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10096,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10097,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10098,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10099,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10100,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10101,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10102,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10103,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10104,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10105,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10106,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10107,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10108,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10109,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10110,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10111,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10112,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10113,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10114,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10115,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10116,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10117,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10118,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10119,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10120,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10121,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10122,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10123,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10124,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10125,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10126,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10127,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10128,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10129,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10130,2020-10-30,2020-10-30,,,,Colombo (1-18),Colombo,,
+10131,2020-10-30,2020-10-30,,,,Kirulapone,Colombo,,
+10132,2020-10-30,2020-10-30,,,,Kirulapone,Colombo,,
+10133,2020-10-30,2020-10-30,,,,Kirulapone,Colombo,,
+10134,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10135,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10136,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10137,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10138,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10139,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10140,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10141,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10142,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10143,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10144,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10145,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10146,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10147,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10148,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10149,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10150,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10151,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10152,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10153,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10154,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10155,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10156,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10157,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10158,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10159,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10160,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10161,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10162,2020-10-30,2020-10-30,,,,Nawagamuwa,Colombo,,
+10163,2020-10-30,2020-10-30,,,,Dehiwala,Colombo,,
+10164,2020-10-30,2020-10-30,,,,Kaduwela,Colombo,,
+10165,2020-10-30,2020-10-30,,,,Modara,Colombo,,
+10166,2020-10-30,2020-10-30,,,,Modara,Colombo,,
+10167,2020-10-30,2020-10-30,,,,Modara,Colombo,,
+10168,2020-10-30,2020-10-30,,,,Modara,Colombo,,
+10169,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10170,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10171,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10172,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10173,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10174,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10175,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10176,2020-10-30,2020-10-30,,,,Mattakkuliya,Colombo,,
+10177,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10178,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10179,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10180,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10181,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10182,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10183,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10184,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10185,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10186,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10187,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10188,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10189,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10190,2020-10-30,2020-10-30,,,,Madiwela,Colombo,,
+10191,2020-10-30,2020-10-30,,,,Avissawella,Colombo,,
+10192,2020-10-30,2020-10-30,,,,Kotahena,Colombo,,
+10193,2020-10-30,2020-10-30,,,,Kotahena,Colombo,,
+10194,2020-10-30,2020-10-30,,,,Kotahena,Colombo,,
+10195,2020-10-30,2020-10-30,,,,Nugegoda,Colombo,,
+10196,2020-10-30,2020-10-30,,,,Nugegoda,Colombo,,
+10197,2020-10-30,2020-10-30,,,,Homagama,Colombo,,
+10198,2020-10-30,2020-10-30,,,,Homagama,Colombo,,
+10199,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10200,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10201,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10202,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10203,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10204,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10205,2020-10-30,2020-10-30,,,,Wellawaththa,Colombo,,
+10206,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10207,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10208,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10209,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10210,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10211,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10212,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10213,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10214,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10215,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10216,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10217,2020-10-30,2020-10-30,,,,Moratuwa,Colombo,,
+10218,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10219,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10220,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10221,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10222,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10223,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10224,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10225,2020-10-30,2020-10-30,,,,Kalutara,Kalutara,,
+10226,2020-10-30,2020-10-30,,,,Kalutara - Jawaththa,Kalutara,,
+10227,2020-10-30,2020-10-30,,,,Kalutara - Jawaththa,Kalutara,,
+10228,2020-10-30,2020-10-30,,,,Kalutara - Jawaththa,Kalutara,,
+10229,2020-10-30,2020-10-30,,,,Kalutara North,Kalutara,,
+10230,2020-10-30,2020-10-30,,,,Kalutara North,Kalutara,,
+10231,2020-10-30,2020-10-30,,,,Kalutara North,Kalutara,,
+10232,2020-10-30,2020-10-30,,,,Waskaduwa,Kalutara,,
+10233,2020-10-30,2020-10-30,,,,Waskaduwa,Kalutara,,
+10234,2020-10-30,2020-10-30,,,,Payagala,Kalutara,,
+10235,2020-10-30,2020-10-30,,,,Payagala,Kalutara,,
+10236,2020-10-30,2020-10-30,,,,Theldeniya,Kandy,,
+10237,2020-10-30,2020-10-30,,,,Theldeniya,Kandy,,
+10238,2020-10-30,2020-10-30,,,,Digana,Kandy,,
+10239,2020-10-30,2020-10-30,,,,Matale,Matale,,
+10240,2020-10-30,2020-10-30,,,,Matale,Matale,,
+10241,2020-10-30,2020-10-30,,,,Matale,Matale,,
+10242,2020-10-30,2020-10-30,,,,Kegalle,Kegalle,,
+10243,2020-10-30,2020-10-30,,,,Kegalle,Kegalle,,
+10244,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10245,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10246,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10247,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10248,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10249,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10250,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10251,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10252,2020-10-30,2020-10-30,,,,Bulathkohupitiya,Kegalle,,
+10253,2020-10-30,2020-10-30,,,,Bandarawela,Badulla,,
+10254,2020-10-30,2020-10-30,,,,Ampara,Ampara,,
+10255,2020-10-30,2020-10-30,,,,Ampara,Ampara,,
+10256,2020-10-30,2020-10-30,,,,Beliatta,Hambantota,,
+10257,2020-10-30,2020-10-30,,,,Matara,Matara,,
+10258,2020-10-30,2020-10-30,,,,Karandeniya,Galle,,
+10259,2020-10-30,2020-10-30,,,,Karandeniya,Galle,,
+10260,2020-10-30,2020-10-30,,,,Karandeniya,Galle,,
+10261,2020-10-30,2020-10-30,,,,Karandeniya,Galle,,
+10262,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10263,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10264,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10265,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10266,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10267,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10268,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10269,2020-10-30,2020-10-30,,,,Kurunegala,Kurunegala,,
+10270,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10271,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10272,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10273,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10274,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10275,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10276,2020-10-30,2020-10-30,,,,Kuliyapitiya,Kurunegala,,
+10277,2020-10-30,2020-10-30,,,,Bingiriya,Kurunegala,,
+10278,2020-10-30,2020-10-30,,,,Bingiriya,Kurunegala,,
+10279,2020-10-30,2020-10-30,,,,Rathnapura,Ratnapura,,
+10280,2020-10-30,2020-10-30,,,,Kuruwita,Ratnapura,,
+10281,2020-10-30,2020-10-30,,,,Kuruwita,Ratnapura,,
+10282,2020-10-30,2020-10-30,,,,Kuruwita,Ratnapura,,
+10283,2020-10-30,2020-10-30,,,,Kuruwita,Ratnapura,,
+10284,2020-10-30,2020-10-30,,,,,Unspecified,Hospitalized,Police Station Foreshore
+10285,2020-10-30,2020-10-30,,,,,Unspecified,Hospitalized,Crime Report Division
+10286,2020-10-30,2020-10-30,,,,,Unspecified,Hospitalized,Crime Report Division
+10287,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10288,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10289,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10290,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10291,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10292,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10293,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10294,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10295,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10296,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10297,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10298,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10299,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10300,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10301,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10302,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10303,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10304,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10305,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10306,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10307,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10308,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10309,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10310,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10311,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10312,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10313,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10314,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10315,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10316,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10317,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10318,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10319,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10320,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10321,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10322,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10323,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10324,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10325,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10326,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10327,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10328,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10329,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10330,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10331,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10332,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10333,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10334,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10335,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10336,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10337,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10338,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10339,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10340,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10341,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10342,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10343,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10344,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10345,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10346,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10347,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10348,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10349,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10350,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10351,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10352,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10353,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10354,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10355,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10356,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10357,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10358,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10359,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10360,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10361,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10362,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10363,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10364,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10365,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10366,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10367,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10368,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10369,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10370,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10371,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10372,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10373,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10374,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10375,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10376,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10377,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10378,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10379,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10380,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10381,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10382,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10383,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10384,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10385,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10386,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10387,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10388,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10389,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10390,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10391,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10392,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10393,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10394,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10395,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10396,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10397,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10398,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10399,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10400,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10401,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10402,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10403,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10404,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10405,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10406,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10407,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10408,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10409,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10410,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10411,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10412,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10413,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10414,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10415,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10416,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10417,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10418,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10419,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10420,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10421,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10422,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10423,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10424,2020-10-30,2020-10-30,,,,,Quarantine Centers,Hospitalized,In a QC
+10425,2020-10-31,2020-10-31,,,,Gampaha,Gampaha,,
+10426,2020-10-31,2020-10-31,,,,Gampaha,Gampaha,,
+10427,2020-10-31,2020-10-31,,,,Waththala,Gampaha,,
+10428,2020-10-31,2020-10-31,,,,Waththala,Gampaha,,
+10429,2020-10-31,2020-10-31,,,,Waththala,Gampaha,,
+10430,2020-10-31,2020-10-31,,,,Waththala,Gampaha,,
+10431,2020-10-31,2020-10-31,,,,Minuwangoda,Gampaha,,
+10432,2020-10-31,2020-10-31,,,,Minuwangoda,Gampaha,,
+10433,2020-10-31,2020-10-31,,,,Minuwangoda,Gampaha,,
+10434,2020-10-31,2020-10-31,,,,Minuwangoda,Gampaha,,
+10435,2020-10-31,2020-10-31,,,,Minuwangoda,Gampaha,,
+10436,2020-10-31,2020-10-31,,,,Minuwangoda,Gampaha,,
+10437,2020-10-31,2020-10-31,,,,Katana,Gampaha,,
+10438,2020-10-31,2020-10-31,,,,Katana,Gampaha,,
+10439,2020-10-31,2020-10-31,,,,Ja Ela,Gampaha,,
+10440,2020-10-31,2020-10-31,,,,Ja Ela,Gampaha,,
+10441,2020-10-31,2020-10-31,,,,Ja Ela,Gampaha,,
+10442,2020-10-31,2020-10-31,,,,Kadawatha,Gampaha,,
+10443,2020-10-31,2020-10-31,,,,Kadawatha,Gampaha,,
+10444,2020-10-31,2020-10-31,,,,Dompe,Gampaha,,
+10445,2020-10-31,2020-10-31,,,,Dompe,Gampaha,,
+10446,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10447,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10448,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10449,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10450,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10451,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10452,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10453,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10454,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10455,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10456,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10457,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10458,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10459,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10460,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10461,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10462,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10463,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10464,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10465,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10466,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10467,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10468,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10469,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10470,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10471,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10472,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10473,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10474,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10475,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10476,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10477,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10478,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10479,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10480,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10481,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10482,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10483,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10484,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10485,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10486,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10487,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10488,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10489,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10490,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10491,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10492,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10493,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10494,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10495,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10496,2020-10-31,2020-10-31,,,,Colombo (1-18),Colombo,,
+10497,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10498,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10499,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10500,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10501,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10502,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10503,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10504,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10505,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10506,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10507,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10508,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10509,2020-10-31,2020-10-31,,,,Dehiwala,Colombo,,
+10510,2020-10-31,2020-10-31,,,,Gothatuwa,Colombo,,
+10511,2020-10-31,2020-10-31,,,,Gothatuwa,Colombo,,
+10512,2020-10-31,2020-10-31,,,,Gothatuwa,Colombo,,
+10513,2020-10-31,2020-10-31,,,,Gothatuwa,Colombo,,
+10514,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10515,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10516,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10517,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10518,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10519,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10520,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10521,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10522,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10523,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10524,2020-10-31,2020-10-31,,,,Hanwella,Colombo,,
+10525,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10526,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10527,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10528,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10529,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10530,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10531,2020-10-31,2020-10-31,,,,Borella,Colombo,,
+10532,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10533,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10534,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10535,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10536,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10537,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10538,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10539,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10540,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10541,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10542,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10543,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10544,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10545,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10546,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10547,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10548,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10549,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10550,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10551,2020-10-31,2020-10-31,,,,Kalutara,Kalutara,,
+10552,2020-10-31,2020-10-31,,,,Galle,Galle,,
+10553,2020-10-31,2020-10-31,,,,Galle,Galle,,
+10554,2020-10-31,2020-10-31,,,,Galle,Galle,,
+10555,2020-10-31,2020-10-31,,,,Galle,Galle,,
+10556,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10557,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10558,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10559,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10560,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10561,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10562,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10563,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10564,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10565,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10566,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10567,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10568,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10569,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10570,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10571,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10572,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10573,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10574,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10575,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10576,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10577,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10578,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10579,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10580,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10581,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10582,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10583,2020-10-31,2020-10-31,,,,Rathnapura,Ratnapura,,
+10584,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10585,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10586,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10587,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10588,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10589,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10590,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10591,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10592,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10593,2020-10-31,2020-10-31,,,,Kegalle,Kegalle,,
+10594,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10595,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10596,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10597,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10598,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10599,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10600,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10601,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10602,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10603,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10604,2020-10-31,2020-10-31,,,,Vavuniya,Vavuniya,,
+10605,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10606,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10607,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10608,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10609,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10610,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10611,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10612,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10613,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10614,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10615,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10616,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10617,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10618,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10619,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10620,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10621,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10622,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10623,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10624,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10625,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10626,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10627,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10628,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10629,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10630,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10631,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10632,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10633,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10634,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10635,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10636,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10637,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10638,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10639,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10640,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10641,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10642,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10643,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10644,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10645,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10646,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10647,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10648,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10649,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10650,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10651,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10652,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10653,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10654,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10655,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10656,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10657,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10658,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10659,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10660,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10661,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10662,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10663,2020-10-31,2020-10-31,,,,,Quarantine Centers,Hospitalized,In a QC
+10664,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10665,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10666,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10667,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10668,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10669,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10670,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10671,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10672,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10673,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10674,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10675,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10676,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10677,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10678,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10679,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10680,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10681,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10682,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10683,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10684,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10685,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10686,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10687,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10688,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10689,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10690,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10691,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10692,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10693,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10694,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10695,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10696,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10697,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10698,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10699,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10700,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10701,2020-11-01,2020-11-01,,,,Kelaniya,Gampaha,,
+10702,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10703,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10704,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10705,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10706,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10707,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10708,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10709,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10710,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10711,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10712,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10713,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10714,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10715,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10716,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10717,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10718,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10719,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10720,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10721,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10722,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10723,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10724,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10725,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10726,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10727,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10728,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10729,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10730,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10731,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10732,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10733,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10734,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10735,2020-11-01,2020-11-01,,,,Biyagama,Gampaha,,
+10736,2020-11-01,2020-11-01,,,,Dompe,Gampaha,,
+10737,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10738,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10739,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10740,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10741,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10742,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10743,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10744,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10745,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10746,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10747,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10748,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10749,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10750,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10751,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10752,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10753,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10754,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10755,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10756,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10757,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10758,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10759,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10760,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10761,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10762,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10763,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10764,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10765,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10766,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10767,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10768,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10769,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10770,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10771,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10772,2020-11-01,2020-11-01,,,,Mahara,Gampaha,,
+10773,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10774,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10775,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10776,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10777,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10778,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10779,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10780,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10781,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10782,2020-11-01,2020-11-01,,,,Minuwangoda,Gampaha,,
+10783,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10784,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10785,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10786,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10787,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10788,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10789,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10790,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10791,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10792,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10793,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10794,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10795,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10796,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10797,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10798,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10799,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10800,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10801,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10802,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10803,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10804,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10805,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10806,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10807,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10808,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10809,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10810,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10811,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10812,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10813,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10814,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10815,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10816,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10817,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10818,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10819,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10820,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10821,2020-11-01,2020-11-01,,,,Waththala,Gampaha,,
+10822,2020-11-01,2020-11-01,,,,Ragama,Gampaha,,
+10823,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10824,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10825,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10826,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10827,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10828,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10829,2020-11-01,2020-11-01,,,,Peliyagoda,Gampaha,,
+10830,2020-11-01,2020-11-01,,,,Divulapitiya,Gampaha,,
+10831,2020-11-01,2020-11-01,,,,Divulapitiya,Gampaha,,
+10832,2020-11-01,2020-11-01,,,,Veyangoda,Gampaha,,
+10833,2020-11-01,2020-11-01,,,,Veyangoda,Gampaha,,
+10834,2020-11-01,2020-11-01,,,,Veyangoda,Gampaha,,
+10835,2020-11-01,2020-11-01,,,,Seeduwa,Gampaha,,
+10836,2020-11-01,2020-11-01,,,,Kotugoda,Gampaha,,
+10837,2020-11-01,2020-11-01,,,,Aththanagalla,Gampaha,,
+10838,2020-11-01,2020-11-01,,,,Aththanagalla,Gampaha,,
+10839,2020-11-01,2020-11-01,,,,Aththanagalla,Gampaha,,
+10840,2020-11-01,2020-11-01,,,,Aththanagalla,Gampaha,,
+10841,2020-11-01,2020-11-01,,,,Aththanagalla,Gampaha,,
+10842,2020-11-01,2020-11-01,,,,Aththanagalla,Gampaha,,
+10843,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10844,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10845,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10846,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10847,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10848,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10849,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10850,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10851,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10852,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10853,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10854,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10855,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10856,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10857,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10858,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10859,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10860,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10861,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10862,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10863,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10864,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10865,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10866,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10867,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10868,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10869,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10870,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10871,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10872,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10873,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10874,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10875,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10876,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10877,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10878,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10879,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10880,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10881,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10882,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10883,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10884,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10885,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10886,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10887,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10888,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10889,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10890,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10891,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10892,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10893,2020-11-01,2020-11-01,,,,Colombo (1-18),Colombo,,
+10894,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10895,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10896,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10897,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10898,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10899,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10900,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10901,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10902,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10903,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10904,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10905,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10906,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10907,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10908,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10909,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10910,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10911,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10912,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10913,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10914,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10915,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10916,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10917,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10918,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10919,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10920,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10921,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10922,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10923,2020-11-01,2020-11-01,,,,Pettah,Colombo,,
+10924,2020-11-01,2020-11-01,,,,Meetotamulla,Colombo,,
+10925,2020-11-01,2020-11-01,,,,Meetotamulla,Colombo,,
+10926,2020-11-01,2020-11-01,,,,Meetotamulla,Colombo,,
+10927,2020-11-01,2020-11-01,,,,Wellampitiya,Colombo,,
+10928,2020-11-01,2020-11-01,,,,Maradana,Colombo,,
+10929,2020-11-01,2020-11-01,,,,Mattakkuliya,Colombo,,
+10930,2020-11-01,2020-11-01,,,,Kolonnawa,Colombo,,
+10931,2020-11-01,2020-11-01,,,,Kolonnawa,Colombo,,
+10932,2020-11-01,2020-11-01,,,,Kolonnawa,Colombo,,
+10933,2020-11-01,2020-11-01,,,,Kotikawaththa,Colombo,,
+10934,2020-11-01,2020-11-01,,,,Borella,Colombo,,
+10935,2020-11-01,2020-11-01,,,,Borella,Colombo,,
+10936,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10937,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10938,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10939,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10940,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10941,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10942,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10943,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10944,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10945,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10946,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10947,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10948,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10949,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10950,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10951,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10952,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10953,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10954,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10955,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10956,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10957,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10958,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10959,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10960,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10961,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10962,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10963,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10964,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10965,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10966,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10967,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10968,2020-11-01,2020-11-01,,,,Horana,Kalutara,,
+10969,2020-11-01,2020-11-01,,,,Kundasale,Kandy,,
+10970,2020-11-01,2020-11-01,,,,Nawalapitiya,Kandy,,
+10971,2020-11-01,2020-11-01,,,,Nuwara Eliya,Nuwara Eliya,,
+10972,2020-11-01,2020-11-01,,,,Nuwara Eliya,Nuwara Eliya,,
+10973,2020-11-01,2020-11-01,,,,Nuwara Eliya,Nuwara Eliya,,
+10974,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10975,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10976,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10977,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10978,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10979,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10980,2020-11-01,2020-11-01,,,,Pannala,Kurunegala,,
+10981,2020-11-01,2020-11-01,,,,Narammala,Kurunegala,,
+10982,2020-11-01,2020-11-01,,,,Narammala,Kurunegala,,
+10983,2020-11-01,2020-11-01,,,,Narammala,Kurunegala,,
+10984,2020-11-01,2020-11-01,,,,Narammala,Kurunegala,,
+10985,2020-11-01,2020-11-01,,,,Arachchikattuwa,Puttalam,,
+10986,2020-11-01,2020-11-01,,,,Chilaw,Puttalam,,
+10987,2020-11-01,2020-11-01,,,,Hambantota,Hambantota,,
+10988,2020-11-01,2020-11-01,,,,Trincomalee,Trincomalee,,
+10989,2020-11-01,2020-11-01,,,,Koralepaththu,Batticaloa,,
+10990,2020-11-01,2020-11-01,,,,Koralepaththu,Batticaloa,,
+10991,2020-11-01,2020-11-01,,,,Koralepaththu,Batticaloa,,
+10992,2020-11-01,2020-11-01,,,,Koralepaththu,Batticaloa,,
+10993,2020-11-01,2020-11-01,,,,Koralepaththu,Batticaloa,,
+10994,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+10995,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+10996,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+10997,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+10998,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+10999,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11000,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11001,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11002,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11003,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11004,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11005,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11006,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11007,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11008,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11009,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11010,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11011,2020-11-01,2020-11-01,,,,Mawanella,Kegalle,,
+11012,2020-11-01,2020-11-01,,,,Ruwanwella,Kegalle,,
+11013,2020-11-01,2020-11-01,,,,Galle,Galle,,
+11014,2020-11-01,2020-11-01,,,,Galle,Galle,,
+11015,2020-11-01,2020-11-01,,,,Horapawita,Matara,,
+11016,2020-11-01,2020-11-01,,,,Eheliyagoda,Ratnapura,,
+11017,2020-11-01,2020-11-01,,,,Polonnaruwa,Polonnaruwa,,
+11018,2020-11-01,2020-11-01,,,,Mannar,Mannar,,
+11019,2020-11-01,2020-11-01,,,,Thalawa,Anuradhapura,,
+11020,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11021,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11022,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11023,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11024,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11025,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11026,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11027,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11028,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11029,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11030,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11031,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11032,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11033,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11034,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11035,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11036,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11037,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11038,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11039,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11040,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11041,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11042,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11043,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11044,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11045,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11046,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11047,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11048,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11049,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11050,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11051,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11052,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11053,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11054,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11055,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11056,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11057,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11058,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11059,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
+11060,2020-11-01,2020-11-01,,,,,Quarantine Centers,Hospitalized,In a QC
