@@ -7,3 +7,4 @@ google-auth-oauthlib
 geopy==2.0.0
 opencage==1.2.1
 fbprophet
+sklearn
