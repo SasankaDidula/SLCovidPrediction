@@ -160,7 +160,7 @@ def geometry():
 
     geocoder = OpenCageGeocode(geokey)
     df = SLDataPreprocess()
-    df.drop(['Number','Date_Added','Date_Announced','Status', 'Notes'], axis=1, inplace=True)
+    df.drop(['Number','Date_Added','Date_Announced'], axis=1, inplace=True)
 
     newDataSet = df['Detected_Prefecture'].value_counts()
     print(newDataSet)
