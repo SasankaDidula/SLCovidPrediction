@@ -183,7 +183,7 @@ def convert_date(df1_new, countryIndex, date):
     return date, Total_cases, [float_date], strDate
 
 
-def predict_cases(dates, cases, predictDate, strDate):
+def predict_cases_global(dates, cases, predictDate, strDate):
     dates1 = np.reshape(dates, (len(dates), 1))  # convert to 1xn dimension
     cases1 = np.reshape(cases, (len(cases), 1))
     predictDate = np.reshape(predictDate, (len(predictDate), 1))
@@ -220,7 +220,7 @@ def predict_cases_country(countryIndex, date):
           '/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv '
     df1_new = preprocessing(url)
     data = convert_date(df1_new, countryIndex, date)
-    predicted_cases = predict_cases(data[0], data[1], data[2], data[3])
+    predicted_cases = predict_cases_global(data[0], data[1], data[2], data[3])
     print(predicted_cases)
     return predicted_cases
 
@@ -324,8 +324,8 @@ def predict_cases_sldata():
 
 
 def predict_cases(dates, cases, predictDate):
-    dates = dates[-30:]
-    cases = cases[-30:]
+    dates = dates
+    cases = cases
     dates1 = np.reshape(dates, (len(dates), 1))  # convert to 1xn dimension
     cases1 = np.reshape(cases, (len(cases), 1))
     predictDate = np.reshape(predictDate, (len(predictDate), 1))
@@ -354,7 +354,7 @@ def predict_cases(dates, cases, predictDate):
                              , y=y1
                              , mode='lines',
                              name='predict'))
-    fig.add_trace(go.Scatter(x=['03/11/20']
+    fig.add_trace(go.Scatter(x=['11/11/20']
                              , y=y2
                              , mode='lines+markers',
                              name='predict for the selected date'))
