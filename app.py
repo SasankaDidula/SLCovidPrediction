@@ -221,7 +221,6 @@ def predict_cases_country(countryIndex, date):
     df1_new = preprocessing(url)
     data = convert_date(df1_new, countryIndex, date)
     predicted_cases = predict_cases_global(data[0], data[1], data[2], data[3])
-    print(predicted_cases)
     return predicted_cases
 
 
@@ -238,8 +237,6 @@ def predict_deaths(dates, deaths, predictDate, strDate):
     y2 = regression_model.predict(predictDate)
     y1 = list(chain(*y1))
     y2 = list(chain(*y2))
-    print(y1)
-    print("aaaa:", y2)
     fig = go.Figure(layout=go.Layout(
         title=go.layout.Title(text="death predict"),
         template='plotly_dark'
@@ -308,7 +305,6 @@ def predict_recovered_country(countryIndex, date):
           '/csse_covid_19_time_series/time_series_covid19_recovered_global.csv '
     df1_new = preprocessing(url)
     data = convert_date(df1_new, countryIndex, date)
-    print(type(data[0]))
     predicted_recovered = predict_recovered(data[0], data[1], data[2], data[3])
     return predicted_recovered
 

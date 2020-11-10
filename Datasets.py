@@ -163,7 +163,6 @@ def geometry():
     df.drop(['Number','Date_Added','Date_Announced'], axis=1, inplace=True)
 
     newDataSet = df['Detected_Prefecture'].value_counts()
-    print(newDataSet)
     for index, row in newDataSet.items():  # iterate over rows in dataframe
         lat = 0
         long = 0
