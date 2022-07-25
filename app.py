@@ -1,12 +1,13 @@
 import pickle
 
-from fbprophet import Prophet
 from pandas import to_datetime
 from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, PolynomialFeatures
 from sklearn.svm import SVR
 from itertools import chain
+
+import statsmodels.api as sm
 
 import Datasets
 
@@ -110,24 +111,28 @@ SLDailyCasesPrediction.drop(['Recovered', 'Deceased', 'Critical', 'Tested'], axi
 newDataSet2 = SLDailyCasesPrediction.copy()
 newDataSet2.columns = ['ds', 'y']
 newDataSet2['ds'] = to_datetime(newDataSet2['ds'])
-model = Prophet(interval_width=0.95)
-model.fit(newDataSet2)
-future = model.make_future_dataframe(periods=30)
-forecast1 = model.predict(newDataSet2)
-forecast2 = model.predict(future.tail(30))
-y_pred1 = forecast1['yhat'].values
-y_pred2 = forecast2['yhat'].values
+#model = Prophet(interval_width=0.95)
+#model = sm.tsa.statespace.SARIMAX(newDataSet2['ds'], order = (1, 0, 1))
+#model.fit(newDataSet2['y'])
+#future = model.predict(start = newDataSet2.index[-1], end = newDataSet2.index[-1] + 30, )
+#forecast1 = model.predict(newDataSet2)
+#forecast2 = model.predict(future.tail(30))
+y_pred1 = newDataSet2['y'].values
+#y_pred1 = forecast1['yhat'].values
+#y_pred2 = forecast2['yhat'].values
+y_pred2 = newDataSet2['y'].values
+#y_true = newDataSet2['y'].values
 y_true = newDataSet2['y'].values
 figfbprophet = go.Figure()
-figfbprophet.add_trace(go.Scatter(x=future['ds']
+figfbprophet.add_trace(go.Scatter(x=newDataSet2['ds']
                                   , y=y_pred1
                                   , mode='lines',
                                   name='predict'))
-figfbprophet.add_trace(go.Scatter(x=future['ds']
+figfbprophet.add_trace(go.Scatter(x=newDataSet2['ds']
                                   , y=y_true
                                   , mode='lines',
                                   name='Actual'))
-figfbprophet.add_trace(go.Scatter(x=forecast2['ds']
+figfbprophet.add_trace(go.Scatter(x=newDataSet2['ds']
                                   , y=y_pred2
                                   , mode='lines+markers',
                                   name='predict for next month'))
