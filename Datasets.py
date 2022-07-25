@@ -95,10 +95,13 @@ def SLdatasetbyDate():
             writer.writeheader()
             for row in values:
                 if len(row) >= 5:
-                    writer.writerow(
-                        {fieldnames[0]: row[0], fieldnames[1]: row[1], fieldnames[2]: row[2], fieldnames[3]: row[3],
-                         fieldnames[4]: row[4], fieldnames[5]: row[5]})
-
+                    if len(row) >= 5:
+                        try:
+                            writer.writerow(
+                                {fieldnames[0]: row[0], fieldnames[1]: row[1], fieldnames[2]: row[2], fieldnames[3]: row[3],
+                                fieldnames[4]: row[4], fieldnames[5]: row[5]})
+                        except IndexError:
+                            pass
 def SLdatasetbyCity():
     SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
     SAMPLE_SPREADSHEET_ID = '1zIgPU0ZlYkiKaavYAUcHKgEP95jdaMaf9ljJgRqtog4'
